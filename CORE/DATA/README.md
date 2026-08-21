@@ -1,3 +1,4 @@
-# DATA
+# Data
 
-Placeholder for DATA materials.
+Placeholder for Data materials.
+Raw and processed datasets used in the course.

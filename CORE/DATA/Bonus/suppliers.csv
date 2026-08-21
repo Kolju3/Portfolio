@@ -1,0 +1,16 @@
+﻿supplier_id,supplier_name,contact_email,country,payment_terms_days,lead_time_days,reliability_score
+5001,Balti Mood OÜ,info@baltimoodou.ee,EE,30,25,0.95
+5002,Tartu Tekstiil AS,info@tartutekstiilas.ee,EE,60,23,0.99
+5003,Tallinna Rõivatehas OÜ,info@tallinnaroivatehasou.ee,EE,60,13,0.74
+5004,Nordic Fashion Group OÜ,info@nordicfashiongroupou.ee,EE,90,38,0.87
+5005,Eesti Nahk AS,info@eestinahkas.ee,EE,60,26,0.87
+5006,Pärnu Kudumid OÜ,info@parnukudumidou.ee,EE,90,30,0.91
+5007,Saare Käsitöö OÜ,info@saarekasitooou.ee,EE,60,23,0.83
+5008,Vilma Design OÜ,info@vilmadesignou.ee,EE,30,32,0.78
+5009,Rakvere Tekstiil OÜ,info@rakveretekstiilou.ee,EE,30,11,0.72
+5010,Haapsalu Villased OÜ,info@haapsaluvillasedou.ee,EE,90,8,0.77
+5011,Leedu Linane UAB,info@leedulinaneuab.lt,LT,30,39,0.9
+5012,Riia Stils SIA,info@riiastilssia.lv,LV,90,39,0.83
+5013,Soome Tehdas OY,info@soometehdasoy.fi,FI,60,24,0.96
+5014,Itaalia Moda SRL,info@itaaliamodasrl.it,IT,30,14,0.82
+5015,Türgi Tekstil A.Ş.,info@turgitekstila.tr,TR,90,18,0.99

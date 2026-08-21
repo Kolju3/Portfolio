@@ -1,0 +1,121 @@
+﻿promo_id,promo_name,product_id,category,discount_percent,start_date,end_date,channel
+3001,Suvemüük 2024,,,25,2023-11-02,2023-11-14,online
+3002,Must Reede 2024,,,20,2023-02-14,2023-03-05,both
+3003,Jõulukampaania 2024,1067,,10,2024-08-14,2024-09-10,pood
+3004,Kevadpakkumine 2024,1325,,40,2024-02-15,2024-02-18,online
+3005,Sügismüük 2024,,,20,2024-05-15,2024-05-21,pood
+3006,Valentinipäev 2024,1075,,15,2023-09-14,2023-10-04,online
+3007,Emadepäev 2024,,naiste_riided,10,2023-04-01,2023-04-19,both
+3008,Isadepäev 2024,,,40,2024-01-26,2024-02-14,online
+3009,Koolialguse müük 2024,,,20,2024-11-19,2024-11-22,pood
+3010,Jaanipäeva kampaania,,meeste_riided,40,2024-08-15,2024-09-02,online
+3011,Talvemüük 2024,1046,,25,2024-01-27,2024-02-01,both
+3012,Flash Sale Jaanuar,,,15,2024-07-20,2024-08-03,both
+3013,Naistepäeva eripakkumine,,,10,2023-10-02,2023-10-25,both
+3014,Lihavõtte kampaania,,meeste_riided,25,2023-03-01,2023-03-08,pood
+3015,Suvine lõpumüük,,laste_riided,25,2023-06-29,2023-07-22,online
+3016,Suvemüük 2023,,aksessuaarid,15,2024-10-29,2024-11-03,both
+3017,Must Reede 2023,,,30,2024-11-29,2024-12-19,both
+3018,Jõulukampaania 2023,,aksessuaarid,15,2023-09-06,2023-09-11,online
+3019,Kevadpakkumine 2023,,,15,2024-06-12,2024-06-28,pood
+3020,Sügismüük 2023,1027,,30,2024-07-15,2024-07-27,both
+3021,Valentinipäev 2023,,,20,2023-12-14,2024-01-04,both
+3022,Emadepäev 2023,,,20,2024-08-27,2024-09-21,online
+3023,Isadepäev 2023,,,20,2023-02-27,2023-03-25,online
+3024,Koolialguse müük 2023,,,20,2023-01-09,2023-01-29,pood
+3025,Jaanipäeva kampaania 2023,1218,,50,2023-03-26,2023-04-15,pood
+3026,Talvemüük 2023,,meeste_riided,30,2023-10-20,2023-10-31,pood
+3027,Flash Sale Veebruar,,,40,2023-06-16,2023-06-20,online
+3028,Naistepäeva pakkumine 2023,1025,,20,2024-03-27,2024-04-20,pood
+3029,Online eksklusiiv,,,20,2024-02-23,2024-03-05,both
+3030,VIP kliendi päev,1318,,15,2023-08-31,2023-09-21,pood
+3031,Lojaalsusprogrammi eri,1208,,20,2024-04-22,2024-05-10,both
+3032,Esimese ostu soodustus,1286,,15,2023-07-28,2023-08-19,pood
+3033,Kevadpakkumine 2025,,,40,2025-02-14,2025-03-07,pood
+3034,Talvemüük 2025,1347,,20,2023-09-20,2023-09-26,pood
+3035,Valentinipäev 2025,,,30,2023-04-05,2023-04-27,online
+3036,Kampaania Veebruar 2024,,,20,2024-08-28,2024-09-20,online
+3037,Flash Sale Veebruar 2024,1225,,20,2025-01-27,2025-02-03,online
+3038,Flash Sale August 2023,,,15,2024-07-22,2024-07-28,both
+3039,Soodustus Jaanuar 2024,,,10,2024-05-07,2024-05-15,both
+3040,Kampaania Märts 2024,,,20,2023-05-03,2023-05-26,pood
+3041,Eripakkumine Veebruar 2023,1311,,20,2023-09-09,2023-10-09,pood
+3042,Allahindlus Juuli 2024,,,20,2023-04-26,2023-05-05,online
+3043,Soodustus Aprill 2023,,,20,2023-10-10,2023-10-16,online
+3044,Eripakkumine Oktoober 2023,,,15,2024-05-15,2024-05-21,both
+3045,Eripakkumine Veebruar 2023,,,15,2023-07-27,2023-07-31,online
+3046,Allahindlus November 2023,,laste_riided,20,2023-09-06,2023-09-18,pood
+3047,Flash Sale September 2024,1073,,25,2024-08-04,2024-09-01,pood
+3048,Soodustus September 2024,1089,,15,2025-01-04,2025-02-01,pood
+3049,Kampaania November 2024,,,25,2024-09-17,2024-10-11,online
+3050,Kampaania Mai 2023,1279,,20,2023-11-08,2023-11-15,online
+3051,Flash Sale September 2023,,,20,2024-11-09,2024-11-15,pood
+3052,Flash Sale Juuni 2024,,jalanõusid,15,2023-02-15,2023-02-22,both
+3053,Eripakkumine Veebruar 2023,1298,,25,2025-01-24,2025-01-28,both
+3054,Allahindlus September 2023,,,50,2023-11-10,2023-11-16,both
+3055,Flash Sale Jaanuar 2024,,,30,2024-07-22,2024-07-26,both
+3056,Eripakkumine Jaanuar 2023,1329,,15,2025-02-09,2025-02-27,online
+3057,Soodustus Juuli 2023,,naiste_riided,40,2023-01-26,2023-02-19,online
+3058,Allahindlus Detsember 2023,1010,,15,2023-03-23,2023-04-21,both
+3059,Kampaania Juuli 2024,,,15,2024-11-30,2024-12-08,online
+3060,Allahindlus Juuli 2023,,,30,2023-03-07,2023-03-19,both
+3061,Kampaania Oktoober 2024,,meeste_riided,15,2024-10-08,2024-10-22,both
+3062,Eripakkumine Veebruar 2023,,,20,2024-05-21,2024-05-24,online
+3063,Allahindlus Jaanuar 2023,,,50,2024-08-24,2024-09-23,pood
+3064,Allahindlus Mai 2024,,jalanõusid,25,2023-08-02,2023-08-31,online
+3065,Soodustus Veebruar 2023,1180,,15,2024-04-30,2024-05-07,pood
+3066,Eripakkumine Oktoober 2024,,,15,2024-09-28,2024-10-04,online
+3067,Soodustus Mai 2023,1252,,25,2023-09-09,2023-09-15,pood
+3068,Kampaania Märts 2024,1084,,10,2023-08-25,2023-09-02,both
+3069,Soodustus Veebruar 2024,,,15,2024-10-08,2024-10-14,online
+3070,Flash Sale Mai 2024,1322,,15,2024-10-22,2024-10-29,online
+3071,Kampaania Märts 2023,,,15,2024-11-25,2024-12-24,online
+3072,Soodustus Juuli 2023,1159,,15,2023-10-30,2023-11-20,online
+3073,Eripakkumine August 2023,,aksessuaarid,40,2023-11-21,2023-12-12,both
+3074,Soodustus Aprill 2023,,,25,2023-07-20,2023-08-07,online
+3075,Flash Sale August 2024,1184,,15,2023-08-27,2023-09-20,online
+3076,Flash Sale Jaanuar 2023,,,20,2023-02-17,2023-03-11,online
+3077,Kampaania Aprill 2024,1272,,10,2023-02-15,2023-03-14,pood
+3078,Kampaania Juuli 2023,,,20,2024-04-23,2024-05-18,both
+3079,Soodustus Veebruar 2024,,,20,2024-08-11,2024-09-09,both
+3080,Soodustus November 2023,,,40,2023-02-27,2023-03-27,pood
+3081,Eripakkumine November 2024,1240,,20,2024-02-14,2024-02-21,both
+3082,Eripakkumine Märts 2024,,,25,2024-07-06,2024-07-25,pood
+3083,Soodustus Juuni 2023,,,25,2024-11-10,2024-11-30,both
+3084,Allahindlus Jaanuar 2024,,,20,2023-06-02,2023-06-23,both
+3085,Allahindlus Oktoober 2023,,,25,2024-04-24,2024-05-16,pood
+3086,Flash Sale November 2023,,naiste_riided,15,2023-09-16,2023-10-16,both
+3087,Kampaania Märts 2023,1062,,20,2024-02-06,2024-02-29,online
+3088,Kampaania Oktoober 2024,,,50,2024-06-22,2024-07-11,both
+3089,Soodustus Juuli 2023,,,25,2024-05-09,2024-06-02,both
+3090,Soodustus August 2023,1177,,15,2024-08-21,2024-09-02,online
+3091,Kampaania Jaanuar 2024,,,15,2024-01-24,2024-02-15,both
+3092,Flash Sale Märts 2023,1235,,15,2024-03-02,2024-03-28,pood
+3093,Kampaania Jaanuar 2023,,,40,2024-02-05,2024-03-03,both
+3094,Allahindlus Aprill 2024,,aksessuaarid,30,2023-08-06,2023-08-20,pood
+3095,Flash Sale Oktoober 2024,1078,,30,2023-01-21,2023-01-29,both
+3096,Kampaania November 2024,,meeste_riided,15,2024-08-24,2024-09-13,pood
+3097,Flash Sale Märts 2024,,meeste_riided,15,2023-04-12,2023-04-24,online
+3098,Flash Sale Aprill 2024,,,30,2023-08-15,2023-09-03,online
+3099,Kampaania Jaanuar 2023,,naiste_riided,40,2024-06-23,2024-07-12,pood
+3100,Flash Sale Jaanuar 2023,1157,,25,2024-08-28,2024-09-13,both
+3101,Allahindlus Juuni 2023,,,10,2023-08-26,2023-09-25,both
+3102,Soodustus August 2024,,,30,2023-05-26,2023-06-04,both
+3103,Eripakkumine Juuli 2023,,jalanõusid,30,2023-10-29,2023-11-12,pood
+3104,Soodustus Detsember 2023,1069,,20,2023-10-30,2023-11-11,pood
+3105,Flash Sale September 2023,,,30,2024-02-25,2024-03-11,pood
+3106,Kampaania September 2023,1007,,15,2023-01-31,2023-02-23,both
+3107,Allahindlus Veebruar 2023,,,15,2024-01-10,2024-01-13,both
+3108,Flash Sale Juuni 2024,,meeste_riided,50,2024-03-16,2024-04-14,online
+3109,Soodustus Juuni 2024,1109,,10,2024-06-08,2024-07-06,online
+3110,Eripakkumine Märts 2024,,,40,2023-03-23,2023-04-09,online
+3111,Kampaania Aprill 2024,,,15,2024-11-06,2024-12-02,pood
+3112,Kampaania Veebruar 2023,1271,,25,2024-03-11,2024-03-27,both
+3113,Flash Sale Juuli 2023,,,25,2024-07-08,2024-07-23,online
+3114,Soodustus Mai 2023,,meeste_riided,20,2024-02-06,2024-02-28,pood
+3115,Kampaania Märts 2023,,,40,2023-06-07,2023-07-03,online
+3116,Allahindlus Veebruar 2023,,,20,2023-06-16,2023-07-03,both
+3117,Allahindlus August 2023,1226,,15,2024-01-05,2024-01-21,online
+3118,Allahindlus November 2023,,,40,2023-05-26,2023-06-22,online
+3119,Flash Sale Veebruar 2024,,jalanõusid,40,2023-02-17,2023-03-10,online
+3120,Eripakkumine Märts 2023,1229,,15,2023-05-22,2023-06-21,online
