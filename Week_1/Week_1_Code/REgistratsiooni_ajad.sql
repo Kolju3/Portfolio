@@ -1,0 +1,3 @@
+SELECT MIN (registration_date) AS "Esimene registratsiooni kuupäev", --SELECT valib siin vähima väärtuse tulbast registration_date ja nimetab selle "Esimene registratsiooni kuupäev".
+MAX (registration_date) AS "Viimane registratsiooni kuupäev" -- SELECT valib siin suurima väärtuse tulbast registration_date ja nimetab selle "Viimane registratsiooni kuupäev". See on eelmisel real olnud SELECTi jätk. 
+FROM "Customers"
