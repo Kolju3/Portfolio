@@ -1,0 +1,351 @@
+product_id,product_name,category,subcategory,supplier,cost_price,retail_price,eco_certified,created_at
+1001,Praktiline Seemisnahkne Tennised,Jalanõusid,Tossud,Soome Tehdas Oy,99.21,157.49,false,2022-05-12
+1002,Mugav Linane Linane Kostüüm,Meeste_riided,Ülikonnad,Riia Stils Sia,173.56,274.78,true,2022-05-10
+1003,Elegantne Orgaaniline Kleit,Laste_riided,Kleidid,Rakvere Tekstiil Oü,31.83,52.04,false,2020-02-19
+1004,Minimalistlik Puuvillane Tuunika,Naiste_riided,Pluusid,Vilma Design Oü,29.41,41.63,false,2022-12-26
+1005,Mugav Tweed Kardigan,Meeste_riided,Kampsunid,Nordic Fashion Group Oü,135.70,198.29,true,2021-06-19
+1006,Praktiline Džersii Seelik,Naiste_riided,Seelikud,Leedu Linane Uab,208.86,319.42,false,2020-09-07
+1007,Soe Viskoosne Skaterkleit,Naiste_riided,Kleidid,Pärnu Kudumid Oü,37.36,60.37,false,2021-05-23
+1008,Minimalistlik Nahkne Platvormi Kontsad,Jalanõusid,Kontsad,Vilma Design Oü,167.26,280.13,false,2022-11-22
+1009,Praktiline Merino Villane Parka,Meeste_riided,Jakid,Eesti Nahk As,206.74,332.55,false,2024-06-14
+1010,Klassikaline Puust Nahkvöö,Aksessuaarid,Vööd,Eesti Nahk As,186.77,111.74,true,2022-05-18
+1011,Moodne Villane Pühapäevakleit,Laste_riided,Kleidid,Türgi Tekstil A.ş.,35.43,53.99,true,2023-04-11
+1012,Boheemlaslik Merino Villane Cargo Püksid,Meeste_riided,Püksid,Haapsalu Villased Oü,111.30,160.21,false,2021-11-06
+1013,Boheemlaslik Džersii Teksapüksid,Naiste_riided,Püksid,Haapsalu Villased Oü,141.58,218.99,true,2020-03-27
+1014,Mugav Kangast Sandaalid,Jalanõusid,Sandaalid,Eesti Nahk As,86.91,147.58,false,2024-12-11
+1015,Mugav Merino Villane Dressipluus,Naiste_riided,Pusad,Rakvere Tekstiil Oü,104.83,168.34,false,2021-09-06
+1016,Luksuslik Trikoo Slim-Fit Püksid,Laste_riided,Püksid,Vilma Design Oü,36.60,54.81,true,2021-08-08
+1017,Praktiline Seemisnahkne Saapad,Jalanõusid,Botased,Tallinna Rõivatehas Oü,108.74,153.62,false,2021-01-14
+1018,Boheemlaslik Klaasist Kaelakee,Aksessuaarid,Ehted,Leedu Linane Uab,28.35,47.07,false,2024-03-15
+1019,Luksuslik Villane Bleiser,Laste_riided,Jakid,Tallinna Rõivatehas Oü,51.41,80.39,false,2022-06-17
+1020,Elegantne Puuvillane Body,Laste_riided,Trikotaaž,Riia Stils Sia,62.63,100.40,false,2024-12-16
+1021,Minimalistlik Trikoo Pidžaama,Laste_riided,Komplektid,Soome Tehdas Oy,56.90,94.65,false,2021-09-30
+1022,Minimalistlik Puuvillane Pidžaama,Laste_riided,Komplektid,Eesti Nahk As,15.92,22.70,false,2023-08-20
+1023,Praktiline Puuvillane Sukkpüksid,Laste_riided,Trikotaaž,Saare Käsitöö Oü,27.36,38.70,true,2022-03-16
+1024,Trendikas Kangast Nokamüts,Aksessuaarid,Mütsid,Riia Stils Sia,76.35,117.05,false,2022-04-18
+1025,Moodne Metallist Rätik,Aksessuaarid,Sallid,Eesti Nahk As,78.03,122.07,false,2022-03-09
+1026,Vintage Siidine Skaterkleit,Naiste_riided,Kleidid,Tallinna Rõivatehas Oü,107.22,166.27,true,2024-02-10
+1027,Praktiline Viskoosne Jakk,Naiste_riided,Jakid,Nordic Fashion Group Oü,346.70,213.35,false,2023-12-25
+1028,Moodne Nahkne Müts,Aksessuaarid,Mütsid,Vilma Design Oü,15.86,23.45,false,2023-05-06
+1029,Stiilne Villane Sõrmkindad,Aksessuaarid,Kindad,Balti Mood Oü,117.97,184.15,true,2024-09-21
+1030,Minimalistlik Softshell Cargo Püksid,Laste_riided,Püksid,Vilma Design Oü,68.58,112.68,false,2022-06-21
+1031,Õhuline Sünteetiline Sporditossud,Jalanõusid,Tossud,Leedu Linane Uab,266.31,434.08,false,2023-02-27
+1032,Boheemlaslik Seemisnahkne Oxfordid,Jalanõusid,Kingad,Pärnu Kudumid Oü,132.11,198.42,,2024-03-08
+1033,Moodne Seemisnahkne Oxfordid,Jalanõusid,Kingad,Leedu Linane Uab,149.36,221.42,false,2023-11-10
+1034,Minimalistlik Villane Nahk Sandaalid,Jalanõusid,Sandaalid,Tallinna Rõivatehas Oü,145.76,207.23,false,2024-06-19
+1035,Luksuslik Goretex Tennised,Jalanõusid,Tossud,Saare Käsitöö Oü,45.18,65.52,true,2020-08-09
+1036,Praktiline Puuvillane Ülikond,Meeste_riided,Ülikonnad,Soome Tehdas Oy,85.30,137.33,true,2024-04-13
+1037,Stiilne Nahkne Derbyd,Jalanõusid,Kingad,Itaalia Moda Srl,91.35,141.05,true,2021-04-20
+1038,Õhuline Nahkne Sporditossud,Jalanõusid,Tossud,Vilma Design Oü,196.94,329.99,true,2020-04-17
+1039,Sportlik Džersii Parka,Naiste_riided,Jakid,Nordic Fashion Group Oü,188.32,282.95,false,2020-02-28
+1040,Sportlik Goretex Nahk Sandaalid,Jalanõusid,Sandaalid,Pärnu Kudumid Oü,67.46,96.11,false,2022-02-27
+1041,Vintage Orgaaniline Komplekt,Laste_riided,Komplektid,Vilma Design Oü,67.00,107.36,true,2023-11-08
+1042,Luksuslik Teksane Polo Särk,Meeste_riided,Särgid,Haapsalu Villased Oü,223.47,347.84,false,2020-04-01
+1043,Elegantne Orgaaniline Tuulejope,Laste_riided,Jakid,Eesti Nahk As,128.44,87.06,false,2022-04-12
+1044,Moodne Kashmiir Seelik,Naiste_riided,Seelikud,Vilma Design Oü,49.00,83.23,true,2022-05-11
+1045,Praktiline Kangast Elastne Vöö,Aksessuaarid,Vööd,Vilma Design Oü,117.46,176.65,true,2022-08-04
+1046,Sportlik Kangast Tossud,Jalanõusid,Tossud,Vilma Design Oü,237.50,358.41,false,2021-04-04
+1047,Elegantne Keraamiline Rahakott,Aksessuaarid,Kotid,Haapsalu Villased Oü,94.85,155.84,true,2022-12-07
+1048,Soe Siidine Kaelakee,Aksessuaarid,Ehted,Vilma Design Oü,10.15,16.37,true,2023-06-16
+1049,Boheemlaslik Puuvillane Tuulejope,Naiste_riided,Jakid,Leedu Linane Uab,200.72,308.84,true,2022-11-02
+1050,Trendikas Nahkne Sõrmus,Aksessuaarid,Ehted,Vilma Design Oü,86.55,145.72,false,2022-05-25
+1051,Soe Merino Villane Topik,Naiste_riided,Pluusid,Balti Mood Oü,131.92,208.83,,2023-04-28
+1052,Minimalistlik Softshell Alussärk,Laste_riided,Trikotaaž,Türgi Tekstil A.ş.,29.29,41.79,false,2020-03-04
+1053,Trendikas Villane Nahkkindad,Aksessuaarid,Kindad,Leedu Linane Uab,67.90,113.86,false,2021-04-02
+1054,Elegantne Linane Bleiser,Naiste_riided,Jakid,Leedu Linane Uab,144.94,219.19,false,2024-11-15
+1055,Elegantne Puust Kootud Müts,Aksessuaarid,Mütsid,Riia Stils Sia,41.58,65.60,false,2022-05-03
+1056,Mugav Flanellne Linane Kostüüm,Meeste_riided,Ülikonnad,Haapsalu Villased Oü,239.12,347.16,false,2020-05-16
+1057,Õhuline Villane Platvorm Sandaalid,Jalanõusid,Sandaalid,Saare Käsitöö Oü,173.38,251.52,false,2020-11-27
+1058,Õhuline Sünteetiline Rannasandaalid,Jalanõusid,Sandaalid,Rakvere Tekstiil Oü,216.32,302.86,true,2020-06-23
+1059,Soe Puuvillane Pühapäevakleit,Laste_riided,Kleidid,Balti Mood Oü,74.87,104.85,false,2024-02-18
+1060,Luksuslik Puuvillane Linane Särk,Meeste_riided,Särgid,Riia Stils Sia,153.00,253.26,false,2022-01-28
+1061,Moodne Kangast Sõrmus,Aksessuaarid,Ehted,Rakvere Tekstiil Oü,104.71,155.45,false,2024-09-19
+1062,Luksuslik Keraamiline Elastne Vöö,Aksessuaarid,Vööd,Pärnu Kudumid Oü,99.50,149.55,false,2022-07-17
+1063,Mugav Softshell Slim-Fit Püksid,Laste_riided,Püksid,Tallinna Rõivatehas Oü,107.69,151.45,false,2023-01-07
+1064,Sportlik Softshell Teksapüksid,Laste_riided,Püksid,Türgi Tekstil A.ş.,63.20,95.87,true,2021-06-09
+1065,Soe Fliisist Pidžaama,Laste_riided,Komplektid,Eesti Nahk As,30.92,48.58,false,2023-04-19
+1066,Minimalistlik Siidine Labakindad,Aksessuaarid,Kindad,Rakvere Tekstiil Oü,68.04,107.26,false,2023-02-17
+1067,Praktiline Siidine Rätik,Aksessuaarid,Sallid,Balti Mood Oü,10.50,15.09,false,2021-05-28
+1068,Moodne Satiinne Bleiser,Naiste_riided,Jakid,Leedu Linane Uab,77.20,122.45,false,2021-10-01
+1069,Klassikaline Seemisnahkne Jooksutossud,Jalanõusid,Tossud,Soome Tehdas Oy,242.90,402.62,false,2022-04-30
+1070,Trendikas Džersii Miniseelik,Naiste_riided,Seelikud,Haapsalu Villased Oü,96.46,139.74,false,2022-11-13
+1071,Klassikaline Viskoosne Õhtukleit,Naiste_riided,Kleidid,Soome Tehdas Oy,140.42,237.71,false,2023-05-18
+1072,Klassikaline Kangast Nahkkindad,Aksessuaarid,Kindad,Itaalia Moda Srl,59.21,95.39,false,2022-03-16
+1073,Luksuslik Džersii Chino Püksid,Meeste_riided,Püksid,Pärnu Kudumid Oü,78.52,123.82,false,2022-08-02
+1074,Vintage Seemisnahkne Jooksutossud,Jalanõusid,Tossud,Saare Käsitöö Oü,44.94,65.00,true,2020-08-09
+1075,Kerge Flanellne Kardigan,Meeste_riided,Kampsunid,Vilma Design Oü,181.90,278.59,false,2023-10-01
+1076,Klassikaline Džersii Bleiser,Meeste_riided,Jakid,Nordic Fashion Group Oü,89.29,53.01,true,2023-10-06
+1077,Boheemlaslik Kangast Reisikott,Aksessuaarid,Kotid,Haapsalu Villased Oü,36.98,62.56,false,2022-02-01
+1078,Stiilne Merino Villane Parka,Naiste_riided,Jakid,Balti Mood Oü,25.25,42.64,false,2021-02-23
+1079,Trendikas Džersii Pullover,Naiste_riided,Pusad,Leedu Linane Uab,197.70,291.36,,2022-07-19
+1080,Minimalistlik Softshell Chino Püksid,Laste_riided,Püksid,Balti Mood Oü,35.75,51.50,,2024-10-08
+1081,Luksuslik Goretex Rannasandaalid,Jalanõusid,Sandaalid,Tartu Tekstiil As,38.46,63.62,true,2022-08-18
+1082,Boheemlaslik Polüester Casual Särk,Meeste_riided,Särgid,Eesti Nahk As,71.58,100.93,false,2020-03-13
+1083,Vintage Villane Püksid,Laste_riided,Püksid,Türgi Tekstil A.ş.,48.59,72.14,true,2023-03-11
+1084,Õhuline Nahkne Elastne Vöö,Aksessuaarid,Vööd,Haapsalu Villased Oü,98.37,156.13,false,2024-01-16
+1085,Vintage Linane Bleiser,Meeste_riided,Jakid,Tartu Tekstiil As,156.58,247.81,false,2022-02-18
+1086,Praktiline Nahkne Sõrmus,Aksessuaarid,Ehted,Saare Käsitöö Oü,93.74,149.47,false,2024-04-10
+1087,Kerge Puust Barett,Aksessuaarid,Mütsid,Tallinna Rõivatehas Oü,33.70,57.08,false,2022-03-01
+1088,Soe Softshell Sukkpüksid,Laste_riided,Trikotaaž,Tartu Tekstiil As,61.34,100.57,false,2023-08-15
+1089,Vintage Tweed Smokingüklikond,Meeste_riided,Ülikonnad,Balti Mood Oü,90.91,134.58,false,2021-05-07
+1090,Moodne Merino Villane Triiksärk,Meeste_riided,Särgid,Leedu Linane Uab,197.07,281.19,,2022-09-30
+1091,Õhuline Villane Sõrmus,Aksessuaarid,Ehted,Haapsalu Villased Oü,123.19,199.80,false,2022-05-29
+1092,Mugav Flanellne Parka,Meeste_riided,Jakid,Türgi Tekstil A.ş.,89.91,144.20,false,2020-12-12
+1093,Vintage Villane Rannasandaalid,Jalanõusid,Sandaalid,Rakvere Tekstiil Oü,174.78,271.35,false,2024-04-11
+1094,Elegantne Linane Linane Särk,Meeste_riided,Särgid,Haapsalu Villased Oü,63.68,93.70,true,2021-11-30
+1095,Minimalistlik Villane Bleiser,Laste_riided,Jakid,Leedu Linane Uab,93.17,140.64,true,2020-04-17
+1096,Soe Seemisnahkne Nahk Sandaalid,Jalanõusid,Sandaalid,Itaalia Moda Srl,184.37,273.32,false,2023-12-26
+1097,Boheemlaslik Kangast Rannasandaalid,Jalanõusid,Sandaalid,Vilma Design Oü,227.50,324.38,false,2023-08-05
+1098,Minimalistlik Fliisist Slim-Fit Püksid,Laste_riided,Püksid,Tartu Tekstiil As,97.13,147.92,false,2022-09-03
+1099,Vintage Viskoosne Kapuutsiga Pusa,Naiste_riided,Pusad,Türgi Tekstil A.ş.,60.88,86.80,false,2021-06-06
+1100,Sportlik Merino Villane Ülikond,Meeste_riided,Ülikonnad,Haapsalu Villased Oü,75.76,126.42,false,2023-03-19
+1101,Õhuline Flanellne V-Kaelusega Kampsun,Meeste_riided,Kampsunid,Tallinna Rõivatehas Oü,102.96,159.25,false,2022-06-13
+1102,Minimalistlik Sünteetiline Saapad,Jalanõusid,Botased,Leedu Linane Uab,112.68,163.64,false,2020-07-01
+1103,Elegantne Siidine Müts,Aksessuaarid,Mütsid,Eesti Nahk As,112.53,173.62,,2023-02-06
+1104,Vintage Kangast Vöö,Aksessuaarid,Vööd,Soome Tehdas Oy,117.01,191.48,false,2020-05-27
+1105,Kerge Linane Teksapüksid,Meeste_riided,Püksid,Soome Tehdas Oy,160.11,259.23,false,2024-10-27
+1106,Praktiline Klaasist Sõrmkindad,Aksessuaarid,Kindad,Itaalia Moda Srl,33.77,47.88,false,2023-02-10
+1107,Praktiline Polüester Ülikond,Meeste_riided,Ülikonnad,Türgi Tekstil A.ş.,196.64,279.43,false,2022-07-31
+1108,Trendikas Goretex Oxfordid,Jalanõusid,Kingad,Riia Stils Sia,223.83,371.05,false,2024-07-11
+1109,Stiilne Linane Tuulejope,Meeste_riided,Jakid,Balti Mood Oü,72.49,116.20,true,2023-11-24
+1110,Moodne Polüester Slim-Fit Särk,Meeste_riided,Särgid,Tallinna Rõivatehas Oü,151.08,100.78,false,2023-09-21
+1111,Õhuline Polüester Cargo Püksid,Meeste_riided,Püksid,Tallinna Rõivatehas Oü,198.07,327.07,false,2023-08-06
+1112,Sportlik Polüester Püksid,Meeste_riided,Püksid,Saare Käsitöö Oü,147.23,242.43,false,2024-07-16
+1113,Moodne Trikoo Koolikomplekt,Laste_riided,Komplektid,Tallinna Rõivatehas Oü,52.42,86.46,true,2020-03-14
+1114,Luksuslik Villane Saapad,Jalanõusid,Botased,Tartu Tekstiil As,52.97,74.70,true,2021-03-19
+1115,Soe Orgaaniline Sokid,Laste_riided,Trikotaaž,Pärnu Kudumid Oü,35.97,53.19,false,2022-05-13
+1116,Elegantne Keraamiline Labakindad,Aksessuaarid,Kindad,Rakvere Tekstiil Oü,94.03,134.94,true,2022-10-01
+1117,Sportlik Fliisist Slim-Fit Püksid,Laste_riided,Püksid,Nordic Fashion Group Oü,46.62,72.58,false,2020-05-08
+1118,Elegantne Villane Kaabu,Aksessuaarid,Mütsid,Tartu Tekstiil As,65.28,109.42,false,2023-02-25
+1119,Boheemlaslik Kangast Kangasvöö,Aksessuaarid,Vööd,Nordic Fashion Group Oü,116.87,181.68,false,2021-09-18
+1120,Soe Seemisnahkne Jooksutossud,Jalanõusid,Tossud,Nordic Fashion Group Oü,143.23,206.34,false,2021-09-08
+1121,Sportlik Džersii Püksid,Meeste_riided,Püksid,Eesti Nahk As,119.54,196.91,false,2022-04-15
+1122,Moodne Kashmiir Plisseeseelik,Naiste_riided,Seelikud,Tartu Tekstiil As,133.10,202.57,false,2022-11-10
+1123,Stiilne Kangast Nokamüts,Aksessuaarid,Mütsid,Haapsalu Villased Oü,130.57,219.38,false,2024-01-03
+1124,Klassikaline Villane Madalad Kontsad,Jalanõusid,Kontsad,Tallinna Rõivatehas Oü,148.69,232.61,true,2023-01-10
+1125,Vintage Softshell Cargo Püksid,Laste_riided,Püksid,Saare Käsitöö Oü,15.20,23.68,false,2021-03-03
+1126,Mugav Kashmiir Skaterkleit,Naiste_riided,Kleidid,Saare Käsitöö Oü,141.70,200.77,false,2021-09-07
+1127,Trendikas Goretex Chelsea Botased,Jalanõusid,Botased,Vilma Design Oü,109.30,158.94,true,2022-06-19
+1128,Luksuslik Polüester V-Kaelusega Kampsun,Meeste_riided,Kampsunid,Rakvere Tekstiil Oü,184.73,274.50,true,2020-04-08
+1129,Elegantne Siidine Teksapüksid,Naiste_riided,Püksid,Balti Mood Oü,119.04,182.77,true,2023-09-12
+1130,Stiilne Puuvillane Mantelpaltoo,Laste_riided,Jakid,Vilma Design Oü,69.24,98.68,true,2020-05-25
+1131,Praktiline Merino Villane Pusa,Naiste_riided,Pusad,Leedu Linane Uab,102.23,166.27,true,2020-10-28
+1132,Klassikaline Nahkne Nahkkindad,Aksessuaarid,Kindad,Saare Käsitöö Oü,84.93,144.36,false,2022-02-07
+1133,Praktiline Kangast Reisikott,Aksessuaarid,Kotid,Riia Stils Sia,131.91,208.72,false,2021-05-22
+1134,Luksuslik Villane Pahkluu Saapad,Jalanõusid,Botased,Tallinna Rõivatehas Oü,255.79,371.79,false,2021-10-21
+1135,Soe Polüester Cargo Püksid,Meeste_riided,Püksid,Pärnu Kudumid Oü,124.02,175.25,true,2020-06-20
+1136,Trendikas Villane Tuulejope,Laste_riided,Jakid,Balti Mood Oü,59.06,94.25,false,2024-05-28
+1137,Soe Džersii Cargo Püksid,Naiste_riided,Püksid,Saare Käsitöö Oü,133.47,194.46,false,2020-10-15
+1138,Vintage Orgaaniline Body,Laste_riided,Trikotaaž,Rakvere Tekstiil Oü,83.37,130.73,true,2020-10-15
+1139,Vintage Metallist Seljakott,Aksessuaarid,Kotid,Türgi Tekstil A.ş.,69.49,106.71,true,2021-05-28
+1140,Moodne Flanellne Triiksärk,Meeste_riided,Särgid,Türgi Tekstil A.ş.,63.58,106.69,false,2022-09-07
+1141,Trendikas Sünteetiline Mokassiinid,Jalanõusid,Kingad,Saare Käsitöö Oü,46.60,69.39,true,2024-08-11
+1142,Sportlik Seemisnahkne Nahk Sandaalid,Jalanõusid,Sandaalid,Vilma Design Oü,211.12,307.27,false,2024-09-02
+1143,Õhuline Linane Jakk,Naiste_riided,Jakid,Itaalia Moda Srl,182.53,307.83,false,2020-12-03
+1144,Mugav Polüester Püksid,Meeste_riided,Püksid,Nordic Fashion Group Oü,105.72,152.13,true,2020-12-26
+1145,Mugav Tweed Ülikond,Meeste_riided,Ülikonnad,Nordic Fashion Group Oü,217.23,338.43,false,2020-08-28
+1146,Trendikas Trikoo Jakk,Laste_riided,Jakid,Tallinna Rõivatehas Oü,22.19,31.65,false,2023-06-22
+1147,Mugav Puuvillane Kardigan,Meeste_riided,Kampsunid,Tallinna Rõivatehas Oü,96.17,143.42,false,2022-04-18
+1148,Luksuslik Tweed Linane Särk,Meeste_riided,Särgid,Haapsalu Villased Oü,32.65,48.85,false,2023-06-18
+1149,Trendikas Viskoosne Topik,Naiste_riided,Pluusid,Haapsalu Villased Oü,208.81,304.14,true,2023-08-26
+1150,Soe Siidine Särk-Pluus,Naiste_riided,Pluusid,Soome Tehdas Oy,191.67,280.02,true,2024-09-14
+1151,Stiilne Villane Seljakott,Aksessuaarid,Kotid,Haapsalu Villased Oü,129.16,215.58,true,2024-05-28
+1152,Vintage Teksane Chino Püksid,Meeste_riided,Püksid,Riia Stils Sia,65.22,107.67,false,2023-08-17
+1153,Soe Teksane Smokingüklikond,Meeste_riided,Ülikonnad,Itaalia Moda Srl,48.21,79.59,false,2020-02-23
+1154,Praktiline Nahkne Nahk Sandaalid,Jalanõusid,Sandaalid,Vilma Design Oü,119.91,190.81,true,2020-07-10
+1155,Stiilne Kashmiir Jakk,Naiste_riided,Jakid,Tallinna Rõivatehas Oü,148.43,209.05,true,2024-08-21
+1156,Sportlik Puuvillane Slim-Fit Püksid,Naiste_riided,Püksid,Nordic Fashion Group Oü,130.81,221.89,false,2023-06-08
+1157,Klassikaline Tweed Kardigan,Meeste_riided,Kampsunid,Vilma Design Oü,64.48,91.22,false,2024-01-12
+1158,Praktiline Flanellne Linane Särk,Meeste_riided,Särgid,Rakvere Tekstiil Oü,42.44,70.01,false,2020-09-06
+1159,Praktiline Trikoo Sukkpüksid,Laste_riided,Trikotaaž,Leedu Linane Uab,16.53,24.54,false,2021-03-17
+1160,Moodne Villane Nahk Sandaalid,Jalanõusid,Sandaalid,Haapsalu Villased Oü,226.48,368.67,true,2024-05-10
+1161,Luksuslik Keraamiline Seljakott,Aksessuaarid,Kotid,Tallinna Rõivatehas Oü,81.53,121.98,false,2020-05-07
+1162,Klassikaline Linane Mantelpaltoo,Meeste_riided,Jakid,Tartu Tekstiil As,61.59,89.39,false,2022-03-22
+1163,Luksuslik Tweed Triiksärk,Meeste_riided,Särgid,Haapsalu Villased Oü,158.13,259.69,true,2023-12-18
+1164,Luksuslik Puuvillane Jakk,Naiste_riided,Jakid,Pärnu Kudumid Oü,117.75,179.35,false,2022-05-13
+1165,Õhuline Softshell Dressikomplekt,Laste_riided,Komplektid,Riia Stils Sia,28.46,47.38,false,2020-03-08
+1166,Õhuline Flanellne Smokingüklikond,Meeste_riided,Ülikonnad,Saare Käsitöö Oü,136.45,205.00,false,2021-05-18
+1167,Moodne Tweed Smokingüklikond,Meeste_riided,Ülikonnad,Rakvere Tekstiil Oü,170.94,270.99,false,2022-01-30
+1168,Trendikas Džersii Slim-Fit Püksid,Meeste_riided,Püksid,Eesti Nahk As,214.05,316.04,true,2022-11-13
+1169,Minimalistlik Trikoo Tuulejope,Laste_riided,Jakid,Haapsalu Villased Oü,58.08,88.08,true,2024-04-26
+1170,Elegantne Kashmiir Tuulejope,Naiste_riided,Jakid,Leedu Linane Uab,102.33,158.51,true,2021-12-29
+1171,Sportlik Džersii Ülikond,Meeste_riided,Ülikonnad,Türgi Tekstil A.ş.,217.34,351.62,false,2020-02-02
+1172,Moodne Orgaaniline Skaterkleit,Laste_riided,Kleidid,Balti Mood Oü,96.01,141.62,true,2020-01-30
+1173,Vintage Fliisist Koolikomplekt,Laste_riided,Komplektid,Itaalia Moda Srl,105.43,168.82,true,2023-12-02
+1174,Mugav Viskoosne Plisseeseelik,Naiste_riided,Seelikud,Rakvere Tekstiil Oü,103.46,150.11,false,2024-02-13
+1175,Luksuslik Sünteetiline Nahk Sandaalid,Jalanõusid,Sandaalid,Vilma Design Oü,57.43,83.97,true,2021-08-01
+1176,Boheemlaslik Merino Villane Kapuutsiga Pusa,Naiste_riided,Pusad,Tartu Tekstiil As,159.40,245.59,false,2024-05-10
+1177,Minimalistlik Linane Tuunika,Naiste_riided,Pluusid,Türgi Tekstil A.ş.,87.88,135.99,false,2022-07-20
+1178,Kerge Linane Kampsun,Meeste_riided,Kampsunid,Pärnu Kudumid Oü,68.59,105.09,true,2024-11-14
+1179,Elegantne Tweed Püksid,Meeste_riided,Püksid,Rakvere Tekstiil Oü,55.66,82.15,false,2023-04-09
+1180,Soe Puuvillane Chino Püksid,Laste_riided,Püksid,Pärnu Kudumid Oü,36.04,51.58,true,2021-06-17
+1181,Sportlik Linane Bleiser,Meeste_riided,Jakid,Leedu Linane Uab,85.21,142.57,false,2020-11-28
+1182,Mugav Džersii Pusa,Naiste_riided,Pusad,Riia Stils Sia,109.17,180.14,,2023-02-28
+1183,Luksuslik Metallist Labakindad,Aksessuaarid,Kindad,Balti Mood Oü,138.29,231.13,false,2021-02-15
+1184,Sportlik Puuvillane Chino Püksid,Laste_riided,Püksid,Eesti Nahk As,59.80,86.14,false,2022-03-31
+1185,Moodne Džersii Slim-Fit Ülikond,Meeste_riided,Ülikonnad,Haapsalu Villased Oü,129.90,203.67,false,2020-10-11
+1186,Õhuline Viskoosne Jakk,Naiste_riided,Jakid,Tartu Tekstiil As,157.21,234.99,true,2024-08-26
+1187,Mugav Kashmiir Pusa,Naiste_riided,Pusad,Tartu Tekstiil As,150.21,252.33,false,2022-11-03
+1188,Õhuline Puuvillane Kampsun,Meeste_riided,Kampsunid,Nordic Fashion Group Oü,113.31,184.07,false,2020-03-28
+1189,Luksuslik Nahkne Madalad Kontsad,Jalanõusid,Kontsad,Tartu Tekstiil As,36.30,58.49,false,2022-06-01
+1190,Õhuline Orgaaniline Alussärk,Laste_riided,Trikotaaž,Riia Stils Sia,90.95,138.13,false,2022-10-03
+1191,Vintage Polüester Slim-Fit Püksid,Meeste_riided,Püksid,Vilma Design Oü,142.02,230.06,true,2020-06-16
+1192,Soe Džersii Suvekleit,Naiste_riided,Kleidid,Itaalia Moda Srl,67.16,109.62,true,2022-03-12
+1193,Elegantne Tweed Smokingüklikond,Meeste_riided,Ülikonnad,Vilma Design Oü,83.72,120.59,false,2022-08-20
+1194,Minimalistlik Nahkne Derbyd,Jalanõusid,Kingad,Pärnu Kudumid Oü,50.43,84.54,true,2020-10-07
+1195,Boheemlaslik Villane Tennised,Jalanõusid,Tossud,Eesti Nahk As,218.09,339.21,false,2023-01-16
+1196,Klassikaline Satiinne Mantelpaltoo,Naiste_riided,Jakid,Eesti Nahk As,22.43,32.93,false,2020-09-11
+1197,Sportlik Softshell Sukkpüksid,Laste_riided,Trikotaaž,Pärnu Kudumid Oü,108.35,152.85,false,2020-12-03
+1198,Õhuline Sünteetiline Kõrge Kontsaga Kingad,Jalanõusid,Kontsad,Itaalia Moda Srl,186.77,291.72,,2023-06-23
+1199,Klassikaline Kangast Tennised,Jalanõusid,Tossud,Pärnu Kudumid Oü,163.71,276.97,false,2022-09-28
+1200,Elegantne Orgaaniline Dressikomplekt,Laste_riided,Komplektid,Soome Tehdas Oy,65.49,105.29,false,2024-04-11
+1201,Moodne Keraamiline Sall,Aksessuaarid,Sallid,Saare Käsitöö Oü,91.71,147.16,false,2024-07-09
+1202,Elegantne Metallist Sall,Aksessuaarid,Sallid,Nordic Fashion Group Oü,13.30,22.04,false,2021-11-05
+1203,Luksuslik Nahkne Käekott,Aksessuaarid,Kotid,Tartu Tekstiil As,12.54,17.97,true,2020-10-06
+1204,Stiilne Villane Kontsakingad,Jalanõusid,Kontsad,Soome Tehdas Oy,40.78,63.95,false,2024-08-13
+1205,Sportlik Puuvillane Smokingüklikond,Meeste_riided,Ülikonnad,Itaalia Moda Srl,56.94,96.50,true,2021-05-22
+1206,Vintage Villane Kangasvöö,Aksessuaarid,Vööd,Soome Tehdas Oy,22.70,13.53,true,2023-06-17
+1207,Õhuline Seemisnahkne Rannasandaalid,Jalanõusid,Sandaalid,Türgi Tekstil A.ş.,170.10,241.13,true,2021-10-18
+1208,Luksuslik Linane Bleiser,Naiste_riided,Jakid,Vilma Design Oü,51.35,76.70,false,2022-04-09
+1209,Soe Sünteetiline Sandaalid,Jalanõusid,Sandaalid,Itaalia Moda Srl,172.03,252.10,true,2024-02-21
+1210,Vintage Tweed Kampsun,Meeste_riided,Kampsunid,Haapsalu Villased Oü,225.61,374.54,false,2024-02-03
+1211,Moodne Keraamiline Nahkvöö,Aksessuaarid,Vööd,Rakvere Tekstiil Oü,135.13,225.28,false,2024-11-02
+1212,Minimalistlik Kashmiir Bleiser,Naiste_riided,Jakid,Tallinna Rõivatehas Oü,276.20,185.46,false,2021-10-28
+1213,Luksuslik Goretex Derbyd,Jalanõusid,Kingad,Soome Tehdas Oy,82.97,132.30,false,2024-07-25
+1214,Luksuslik Merino Villane Kapuutsiga Pusa,Naiste_riided,Pusad,Leedu Linane Uab,176.29,250.17,false,2024-12-12
+1215,Praktiline Polüester Casual Särk,Meeste_riided,Särgid,Tartu Tekstiil As,102.31,160.91,true,2023-05-18
+1216,Boheemlaslik Goretex Kingad,Jalanõusid,Kingad,Türgi Tekstil A.ş.,166.29,273.06,false,2020-07-15
+1217,Sportlik Villane Püksid,Laste_riided,Püksid,Vilma Design Oü,21.18,34.04,false,2021-12-26
+1218,Luksuslik Satiinne Teksapüksid,Naiste_riided,Püksid,Leedu Linane Uab,72.15,108.09,true,2024-03-07
+1219,Kerge Nahkne Õlakott,Aksessuaarid,Kotid,Türgi Tekstil A.ş.,19.35,29.42,true,2020-04-24
+1220,Vintage Keraamiline Barett,Aksessuaarid,Mütsid,Tartu Tekstiil As,19.01,26.79,true,2024-04-01
+1221,Õhuline Goretex Tennised,Jalanõusid,Tossud,Eesti Nahk As,231.74,350.19,false,2021-07-25
+1222,Luksuslik Softshell Komplekt,Laste_riided,Komplektid,Itaalia Moda Srl,16.81,26.62,false,2020-04-10
+1223,Praktiline Kangast Kõrge Kontsaga Kingad,Jalanõusid,Kontsad,Türgi Tekstil A.ş.,192.81,319.98,false,2024-09-22
+1224,Trendikas Viskoosne Tuulejope,Naiste_riided,Jakid,Nordic Fashion Group Oü,155.31,222.10,false,2024-03-30
+1225,Moodne Kangast Derbyd,Jalanõusid,Kingad,Tartu Tekstiil As,75.66,116.87,true,2024-11-22
+1226,Elegantne Klaasist Barett,Aksessuaarid,Mütsid,Eesti Nahk As,36.22,51.10,true,2024-04-19
+1227,Mugav Kangast Tennised,Jalanõusid,Tossud,Saare Käsitöö Oü,77.08,120.17,true,2020-08-19
+1228,Stiilne Džersii Püksid,Meeste_riided,Püksid,Tallinna Rõivatehas Oü,108.16,160.71,false,2024-12-04
+1229,Soe Puuvillane Teksapüksid,Naiste_riided,Püksid,Tallinna Rõivatehas Oü,138.05,210.76,false,2022-12-12
+1230,Minimalistlik Villane Pühapäevakleit,Laste_riided,Kleidid,Nordic Fashion Group Oü,34.21,55.04,false,2022-01-09
+1231,Praktiline Trikoo Püksid,Laste_riided,Püksid,Tallinna Rõivatehas Oü,43.77,72.60,false,2021-02-01
+1232,Kerge Metallist Labakindad,Aksessuaarid,Kindad,Pärnu Kudumid Oü,118.71,194.57,false,2020-06-04
+1233,Vintage Viskoosne Püksid,Naiste_riided,Püksid,Riia Stils Sia,67.78,111.26,false,2023-07-28
+1234,Klassikaline Siidine Tuulejope,Naiste_riided,Jakid,Vilma Design Oü,101.94,162.86,true,2023-06-03
+1235,Soe Linane Mantelpaltoo,Meeste_riided,Jakid,Tartu Tekstiil As,146.89,210.87,false,2021-08-07
+1236,Stiilne Puust Müts,Aksessuaarid,Mütsid,Balti Mood Oü,127.65,205.89,false,2021-02-21
+1237,Mugav Puuvillane Pühapäevakleit,Laste_riided,Kleidid,Nordic Fashion Group Oü,37.73,60.80,false,2022-08-17
+1238,Minimalistlik Džersii Chino Püksid,Naiste_riided,Püksid,Leedu Linane Uab,48.98,72.73,false,2022-08-07
+1239,Minimalistlik Viskoosne Skaterkleit,Naiste_riided,Kleidid,Saare Käsitöö Oü,47.31,78.09,false,2020-10-26
+1240,Õhuline Tweed Püksid,Meeste_riided,Püksid,Eesti Nahk As,237.31,356.57,true,2020-01-15
+1241,Stiilne Goretex Kingad,Jalanõusid,Kingad,Eesti Nahk As,248.79,368.97,false,2020-05-22
+1242,Boheemlaslik Villane Barett,Aksessuaarid,Mütsid,Pärnu Kudumid Oü,126.05,203.39,true,2023-12-12
+1243,Trendikas Kangast Kindad,Aksessuaarid,Kindad,Itaalia Moda Srl,122.15,184.02,false,2020-04-04
+1244,Moodne Fliisist Teksapüksid,Laste_riided,Püksid,Saare Käsitöö Oü,78.50,125.36,false,2023-03-06
+1245,Trendikas Nahkne Oxfordid,Jalanõusid,Kingad,Leedu Linane Uab,154.84,228.81,,2023-10-04
+1246,Praktiline Villane Kott,Aksessuaarid,Kotid,Nordic Fashion Group Oü,133.03,204.87,false,2024-05-15
+1247,Mugav Klaasist Kõrvarõngad,Aksessuaarid,Ehted,Vilma Design Oü,18.93,29.48,false,2021-03-10
+1248,Soe Villane Kingad,Jalanõusid,Kingad,Tartu Tekstiil As,99.69,145.50,true,2023-05-25
+1249,Trendikas Puuvillane Body,Laste_riided,Trikotaaž,Vilma Design Oü,50.59,73.90,false,2023-08-08
+1250,Sportlik Linane Jakk,Naiste_riided,Jakid,Vilma Design Oü,174.06,265.20,,2024-12-08
+1251,Moodne Kashmiir Pullover,Naiste_riided,Pusad,Haapsalu Villased Oü,183.83,257.39,true,2023-04-02
+1252,Mugav Villane Body,Laste_riided,Trikotaaž,Tartu Tekstiil As,54.53,77.78,false,2021-02-19
+1253,Klassikaline Kangast Platvormi Kontsad,Jalanõusid,Kontsad,Itaalia Moda Srl,163.16,253.80,true,2023-05-09
+1254,Luksuslik Orgaaniline Pühapäevakleit,Laste_riided,Kleidid,Tallinna Rõivatehas Oü,92.57,136.30,false,2024-05-10
+1255,Sportlik Polüester Slim-Fit Ülikond,Meeste_riided,Ülikonnad,Itaalia Moda Srl,77.24,114.94,true,2020-06-19
+1256,Klassikaline Puuvillane Skaterkleit,Naiste_riided,Kleidid,Türgi Tekstil A.ş.,176.78,296.40,,2020-07-28
+1257,Õhuline Kangast Nahk Sandaalid,Jalanõusid,Sandaalid,Itaalia Moda Srl,51.79,81.48,true,2021-08-21
+1258,Minimalistlik Seemisnahkne Chelsea Botased,Jalanõusid,Botased,Tallinna Rõivatehas Oü,53.39,84.41,true,2020-02-19
+1259,Elegantne Džersii Cargo Püksid,Naiste_riided,Püksid,Eesti Nahk As,143.56,229.55,false,2020-12-28
+1260,Minimalistlik Džersii Pullover,Naiste_riided,Pusad,Haapsalu Villased Oü,89.00,130.36,false,2022-07-31
+1261,Vintage Nahkne Tossud,Jalanõusid,Tossud,Riia Stils Sia,305.72,179.95,,2020-07-28
+1262,Sportlik Nahkne Madalad Kontsad,Jalanõusid,Kontsad,Balti Mood Oü,85.87,128.66,false,2023-08-05
+1263,Praktiline Keraamiline Kaabu,Aksessuaarid,Mütsid,Saare Käsitöö Oü,108.54,169.95,false,2023-07-08
+1264,Mugav Goretex Platvormi Kontsad,Jalanõusid,Kontsad,Itaalia Moda Srl,141.90,221.19,false,2024-11-21
+1265,Soe Flanellne Chino Püksid,Meeste_riided,Püksid,Leedu Linane Uab,181.16,269.85,,2023-02-02
+1266,Elegantne Kangast Platvorm Sandaalid,Jalanõusid,Sandaalid,Rakvere Tekstiil Oü,45.64,73.18,false,2024-09-23
+1267,Minimalistlik Keraamiline Sall,Aksessuaarid,Sallid,Riia Stils Sia,40.57,66.88,false,2023-06-03
+1268,Kerge Teksane Slim-Fit Ülikond,Meeste_riided,Ülikonnad,Türgi Tekstil A.ş.,71.35,110.53,false,2024-02-23
+1269,Kerge Viskoosne Suvekleit,Naiste_riided,Kleidid,Haapsalu Villased Oü,77.48,125.98,true,2021-01-01
+1270,Elegantne Tweed Bleiser,Meeste_riided,Jakid,Itaalia Moda Srl,81.15,124.35,false,2022-11-20
+1271,Mugav Puuvillane Suvekleit,Laste_riided,Kleidid,Itaalia Moda Srl,88.09,130.02,false,2021-03-13
+1272,Boheemlaslik Siidine Sõrmkindad,Aksessuaarid,Kindad,Haapsalu Villased Oü,115.94,183.31,false,2020-09-01
+1273,Trendikas Puuvillane Skaterkleit,Naiste_riided,Kleidid,Vilma Design Oü,194.73,274.37,false,2020-06-04
+1274,Soe Teksane Chino Püksid,Meeste_riided,Püksid,Tartu Tekstiil As,156.71,234.79,false,2024-09-13
+1275,Trendikas Villane Dressikomplekt,Laste_riided,Komplektid,Riia Stils Sia,38.30,62.82,false,2022-06-11
+1276,Trendikas Sünteetiline Platvorm Sandaalid,Jalanõusid,Sandaalid,Rakvere Tekstiil Oü,126.55,187.16,false,2022-12-27
+1277,Stiilne Kangast Jooksutossud,Jalanõusid,Tossud,Leedu Linane Uab,79.45,121.51,false,2020-07-31
+1278,Soe Satiinne Pluus,Naiste_riided,Pluusid,Vilma Design Oü,174.86,263.13,false,2023-06-10
+1279,Luksuslik Orgaaniline Dressikomplekt,Laste_riided,Komplektid,Soome Tehdas Oy,44.52,66.21,false,2022-06-10
+1280,Mugav Fliisist Alussärk,Laste_riided,Trikotaaž,Balti Mood Oü,91.43,128.37,false,2022-08-16
+1281,Sportlik Villane Tossud,Jalanõusid,Tossud,Itaalia Moda Srl,190.07,292.61,false,2022-02-12
+1282,Moodne Villane Kaelasall,Aksessuaarid,Sallid,Riia Stils Sia,11.42,16.62,,2020-12-23
+1283,Klassikaline Nahkne Sõrmus,Aksessuaarid,Ehted,Tallinna Rõivatehas Oü,111.74,188.91,true,2022-11-28
+1284,Vintage Softshell Alussärk,Laste_riided,Trikotaaž,Vilma Design Oü,59.84,99.57,true,2022-11-22
+1285,Praktiline Puuvillane Teksapüksid,Laste_riided,Püksid,Türgi Tekstil A.ş.,73.88,123.64,false,2020-05-26
+1286,Trendikas Keraamiline Sõrmkindad,Aksessuaarid,Kindad,Tartu Tekstiil As,17.53,28.56,true,2023-07-12
+1287,Stiilne Fliisist Komplekt,Laste_riided,Komplektid,Pärnu Kudumid Oü,72.82,114.80,false,2021-11-03
+1288,Soe Polüester Slim-Fit Püksid,Meeste_riided,Püksid,Haapsalu Villased Oü,84.62,138.90,false,2020-09-02
+1289,Soe Teksane Bleiser,Meeste_riided,Jakid,Riia Stils Sia,113.83,171.33,false,2023-12-30
+1290,Soe Trikoo Pühapäevakleit,Laste_riided,Kleidid,Riia Stils Sia,72.64,105.23,,2024-02-13
+1291,Kerge Siidine Nahkkindad,Aksessuaarid,Kindad,Soome Tehdas Oy,138.06,219.83,false,2021-09-20
+1292,Õhuline Siidine Kaelakee,Aksessuaarid,Ehted,Vilma Design Oü,45.76,74.81,true,2021-07-08
+1293,Boheemlaslik Linane Pullover,Naiste_riided,Pusad,Balti Mood Oü,217.33,351.33,false,2021-08-11
+1294,Trendikas Flanellne Mantelpaltoo,Meeste_riided,Jakid,Tartu Tekstiil As,36.61,53.01,false,2021-07-27
+1295,Soe Sünteetiline Loaferid,Jalanõusid,Kingad,Haapsalu Villased Oü,258.78,375.34,false,2020-04-05
+1296,Kerge Džersii Pluus,Naiste_riided,Pluusid,Soome Tehdas Oy,181.98,301.97,true,2023-04-03
+1297,Trendikas Trikoo Skaterkleit,Laste_riided,Kleidid,Haapsalu Villased Oü,68.96,104.27,false,2023-03-17
+1298,Boheemlaslik Merino Villane Poolsäärne Kampsun,Meeste_riided,Kampsunid,Balti Mood Oü,100.31,163.53,false,2023-11-07
+1299,Õhuline Linane Bleiser,Meeste_riided,Jakid,Vilma Design Oü,58.77,83.10,true,2020-07-07
+1300,Luksuslik Merino Villane Chino Püksid,Naiste_riided,Püksid,Soome Tehdas Oy,170.60,247.52,false,2021-04-11
+1301,Kerge Satiinne Jakk,Naiste_riided,Jakid,Haapsalu Villased Oü,140.06,206.52,true,2024-07-13
+1302,Kerge Puuvillane Chino Püksid,Laste_riided,Püksid,Riia Stils Sia,36.03,54.95,false,2023-12-24
+1303,Mugav Merino Villane Tuulejope,Meeste_riided,Jakid,Riia Stils Sia,197.42,312.41,false,2023-02-22
+1304,Kerge Villane Talvesaapad,Jalanõusid,Botased,Pärnu Kudumid Oü,148.01,210.36,false,2021-09-30
+1305,Sportlik Siidine Cargo Püksid,Naiste_riided,Püksid,Soome Tehdas Oy,35.66,50.77,false,2024-09-09
+1306,Elegantne Kangast Kindad,Aksessuaarid,Kindad,Eesti Nahk As,59.65,93.13,false,2023-07-14
+1307,Kerge Puuvillane Slim-Fit Särk,Meeste_riided,Särgid,Türgi Tekstil A.ş.,90.47,127.38,false,2024-03-26
+1308,Luksuslik Sünteetiline Loaferid,Jalanõusid,Kingad,Soome Tehdas Oy,40.94,67.75,false,2023-08-21
+1309,Moodne Viskoosne Plisseeseelik,Naiste_riided,Seelikud,Nordic Fashion Group Oü,129.14,211.35,false,2020-08-31
+1310,Luksuslik Fliisist Komplekt,Laste_riided,Komplektid,Riia Stils Sia,66.03,106.21,false,2020-05-12
+1311,Minimalistlik Puust Kootud Müts,Aksessuaarid,Mütsid,Haapsalu Villased Oü,107.66,153.11,false,2022-02-06
+1312,Soe Polüester Smokingüklikond,Meeste_riided,Ülikonnad,Tallinna Rõivatehas Oü,152.67,243.93,false,2020-06-23
+1313,Klassikaline Flanellne Smokingüklikond,Meeste_riided,Ülikonnad,Vilma Design Oü,47.35,77.60,false,2023-03-22
+1314,Boheemlaslik Nahkne Talvesaapad,Jalanõusid,Botased,Pärnu Kudumid Oü,153.13,234.91,false,2021-06-07
+1315,Õhuline Viskoosne Miniseelik,Naiste_riided,Seelikud,Rakvere Tekstiil Oü,56.54,95.50,true,2020-11-28
+1316,Luksuslik Flanellne Smokingüklikond,Meeste_riided,Ülikonnad,Türgi Tekstil A.ş.,197.21,296.58,true,2020-11-28
+1317,Soe Kangast Nahk Sandaalid,Jalanõusid,Sandaalid,Saare Käsitöö Oü,40.34,62.55,false,2020-03-17
+1318,Elegantne Flanellne Cargo Püksid,Meeste_riided,Püksid,Saare Käsitöö Oü,135.24,218.42,true,2021-11-10
+1319,Vintage Džersii Tuunika,Naiste_riided,Pluusid,Vilma Design Oü,174.45,290.55,false,2021-02-12
+1320,Trendikas Fliisist Tuulejope,Laste_riided,Jakid,Nordic Fashion Group Oü,20.02,30.05,false,2020-01-26
+1321,Moodne Siidine Sall,Aksessuaarid,Sallid,Soome Tehdas Oy,110.17,183.40,false,2021-03-26
+1322,Boheemlaslik Orgaaniline Bleiser,Laste_riided,Jakid,Türgi Tekstil A.ş.,67.96,101.26,true,2023-12-24
+1323,Vintage Merino Villane Tuulejope,Meeste_riided,Jakid,Soome Tehdas Oy,100.65,151.08,false,2022-07-09
+1324,Boheemlaslik Satiinne Seelik,Naiste_riided,Seelikud,Pärnu Kudumid Oü,135.32,224.19,false,2024-10-01
+1325,Praktiline Puust Sall,Aksessuaarid,Sallid,Tallinna Rõivatehas Oü,34.78,50.85,false,2021-08-06
+1326,Stiilne Orgaaniline Pidžaama,Laste_riided,Komplektid,Eesti Nahk As,71.74,106.82,true,2022-09-05
+1327,Elegantne Villane Sukkpüksid,Laste_riided,Trikotaaž,Nordic Fashion Group Oü,71.26,110.70,false,2024-07-08
+1328,Õhuline Goretex Kingad,Jalanõusid,Kingad,Haapsalu Villased Oü,165.23,274.87,,2022-05-19
+1329,Moodne Viskoosne Teksapüksid,Naiste_riided,Püksid,Vilma Design Oü,65.74,110.02,false,2020-07-11
+1330,Trendikas Trikoo Chino Püksid,Laste_riided,Püksid,Riia Stils Sia,106.54,167.23,,2021-10-21
+1331,Elegantne Villane Platvorm Sandaalid,Jalanõusid,Sandaalid,Saare Käsitöö Oü,51.84,74.41,false,2023-06-30
+1332,Luksuslik Džersii Ülikond,Meeste_riided,Ülikonnad,Türgi Tekstil A.ş.,57.94,81.85,false,2024-08-03
+1333,Boheemlaslik Nahkne Kõrge Kontsaga Kingad,Jalanõusid,Kontsad,Riia Stils Sia,140.09,218.54,false,2022-03-22
+1334,Moodne Orgaaniline Bleiser,Laste_riided,Jakid,Riia Stils Sia,17.29,24.67,false,2020-03-09
+1335,Boheemlaslik Polüester Slim-Fit Särk,Meeste_riided,Särgid,Haapsalu Villased Oü,125.17,201.86,false,2024-10-19
+1336,Õhuline Villane Jooksutossud,Jalanõusid,Tossud,Vilma Design Oü,240.46,376.33,false,2024-09-06
+1337,Praktiline Viskoosne Õhtukleit,Naiste_riided,Kleidid,Itaalia Moda Srl,193.79,272.05,true,2023-02-28
+1338,Sportlik Kangast Tennised,Jalanõusid,Tossud,Nordic Fashion Group Oü,195.50,282.29,false,2023-09-11
+1339,Moodne Puuvillane Komplekt,Laste_riided,Komplektid,Eesti Nahk As,24.14,35.68,true,2022-09-28
+1340,Boheemlaslik Tweed Smokingüklikond,Meeste_riided,Ülikonnad,Leedu Linane Uab,136.18,229.01,true,2022-04-11
+1341,Stiilne Siidine Labakindad,Aksessuaarid,Kindad,Leedu Linane Uab,27.64,45.21,false,2020-07-06
+1342,Klassikaline Flanellne Cargo Püksid,Meeste_riided,Püksid,Itaalia Moda Srl,131.66,208.11,,2022-07-01
+1343,Boheemlaslik Softshell Komplekt,Laste_riided,Komplektid,Pärnu Kudumid Oü,44.01,63.87,false,2021-06-16
+1344,Mugav Softshell Teksapüksid,Laste_riided,Püksid,Nordic Fashion Group Oü,58.63,84.95,false,2023-11-13
+1345,Klassikaline Kashmiir Pusa,Naiste_riided,Pusad,Balti Mood Oü,160.82,225.81,false,2022-06-03
+1346,Mugav Merino Villane Cargo Püksid,Meeste_riided,Püksid,Soome Tehdas Oy,157.35,258.91,false,2020-03-01
+1347,Minimalistlik Džersii Polo Särk,Meeste_riided,Särgid,Leedu Linane Uab,148.73,246.97,false,2024-11-11
+1348,Elegantne Teksane Cargo Püksid,Meeste_riided,Püksid,Pärnu Kudumid Oü,89.31,125.52,true,2023-11-10
+1349,Klassikaline Linane Parka,Meeste_riided,Jakid,Eesti Nahk As,95.73,154.71,false,2024-09-26
+1350,Soe Nahkne Platvormi Kontsad,Jalanõusid,Kontsad,Eesti Nahk As,168.14,270.69,false,2023-10-05
