@@ -1,0 +1,4 @@
+interval_start,sales_count,sales_count_percent,total_sales_value,total_sales_percent,avg_sale_value
+2025-01-01 00:00:00+00,328,47.33,99142.79,49.92,302.26
+2025-02-01 00:00:00+00,347,50.07,94534.87,47.6,272.43
+2025-12-01 00:00:00+00,18,2.6,4936.61,2.49,274.26

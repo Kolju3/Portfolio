@@ -1,0 +1,2 @@
+SELECT COUNT (email) - COUNT(DISTINCT email) AS "Korduvad_emailid" --SELECT valib siin kõik emaili read ja siis lahutab neist maha kõik unikaalsed emailid, et saada korduvate emailide arv.
+FROM "Customers";

@@ -1,0 +1,69 @@
+NÄDAL 9 — LUGEMISJUHIS
+Uuendatud 15.08.2026
+
+────────────────────────────────────────────────────────────
+MIS SELLES KAUSTAS ON UUS
+
+KASUTA v3.0 FAILE. Vanad v2.9 jäid kõrvale alles, et miski ei kaoks.
+
+  N9_0_1_P_IT_Karjaar_v3.0.docx                    iseseisva töö vihik
+  N9_0_2_P_JH_CV_koostamine_v3.0.docx              CV juhend
+  N9_0_3_P_JH_Intervjuu_ettevalmistus_v3.0.docx    intervjuu
+  N9_0_4_P_JH_LinkedIn_optimeerimine_v3.0.docx     LinkedIn
+  N9_0_5_P_JH_Portfoolio_esitluse_mall_v3.0.docx   portfoolio esitlus
+  N9_2_1_P_GT_Karjaar_v3.0.docx                    grupitöö juhend
+
+Slaidid (N9_1_1_P_SL_Karjaar_v2.9.pdf) ei muutunud — kasuta olemasolevat.
+
+Mis uutes versioonides muutus: CV- ja intervjuunäidete juures on nüüd
+kohahoidjad ("[sinu VIP-klientide arv]") ja üks täidetud näide, et sa
+kirjutaksid oma arvu, mitte juhendis olevat. Ülejäänud sisu on sama.
+
+────────────────────────────────────────────────────────────
+KUI SU NÄDALA 7 RFM-SKOORID TUNDUSID MADALAD
+
+See oli meie viga, mitte sinu.
+
+Nädala 7 töövihiku kood jagas iga mõõtme (Recency, Frequency,
+Monetary) kolme ossa, nii et suurim võimalik koguskoor oli 9. Kõrval
+olev tabel lubas aga skoori kuni 15 ja ütles "13-15 = VIP Champions".
+Kui sinu VIP-segment jäi seetõttu tühjaks või ootamatult väikeseks,
+siis sinu analüüs oli õige ja skaala oli vale. Materjal on parandatud.
+
+Sa ei pea nädala 7 tööd ümber tegema. Kui tahad, võid koodis muuta
+q=3 väärtuseks q=5 ja lävendid 8/6/4 väärtusteks 13/10/7 — siis
+klapib tabeliga. Aga see ei ole nõutud.
+
+────────────────────────────────────────────────────────────
+MILLISEID ANDMEID SEE NÄDAL KASUTAB
+
+Nädal 9 EI LISA uusi andmestikke.
+
+Sa kasutad seda, mis sul juba olemas:
+  • oma GitHubi portfoolio artefakte nädalatest 1-8
+  • oma nädala 7 RFM-analüüsi tulemusi
+  • 01_Andmestikud kaustas olevaid faile, kui tahad midagi üle vaadata
+
+CV-sse ja LinkedIni kirjuta OMA arvud — need, mille sinu analüüs
+andis. Mitte need, mis on juhendis näitena. Intervjuul küsitakse
+"kuidas sa selle arvuni jõudsid", ja ainus vastus, mida sa kaitsta
+saad, on see, mille sa ise arvutasid.
+
+Kui sinu arv erineb kursusekaaslase omast, on see normaalne. Segmendi
+piirid sõltuvad sellest, kuidas sa andmed puhastasid ja kus lävendi
+tõmbasid. Seda ongi hea intervjuus seletada.
+
+────────────────────────────────────────────────────────────
+RAG-FAILID
+
+02_RAG kaustas on kaks uut faili:
+  9_0_R1_career_hr_concepts-rag.md
+  9_0_R2_career_hr_urbanstyle_application-rag.md
+
+Lisa need OLEMASOLEVASSE NotebookLM-i märkmikku. Ära eemalda
+varasemate nädalate faile — need kogunevad.
+
+────────────────────────────────────────────────────────────
+Küsimused: küsi Session 2 tuutorilt või kirjuta mentorile.
+
+Alek Kozlov · Ettevõtluskeskus OÜ

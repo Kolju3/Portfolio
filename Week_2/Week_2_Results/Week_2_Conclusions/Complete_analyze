@@ -1,0 +1,4 @@
+"occurrence_count","number_of_distinct_emails","total_customer_rows_in_group","total_customers","total_missing_emails","number_of_distinct_emails (1)","emails_once","emails_multiple_times","rows_for_multiple_emails","extra_duplicate_copies"
+"1","2512","2512","3150","380","2640","2512","128","258","130"
+"2","126","252","3150","380","2640","2512","128","258","130"
+"3","2","6","3150","380","2640","2512","128","258","130"

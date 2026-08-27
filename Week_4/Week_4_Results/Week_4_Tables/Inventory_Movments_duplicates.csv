@@ -1,0 +1,5 @@
+movement_id,product_id,location,movement_type,quantity,timestamp,reference,group_count,status
+285,1031,Tallinn,OUT,-37,2024-10-02,ORD-74930,2,KEPT
+1762,1140,Ladu,OUT,-33,2024-10-04,ORD-84063,2,KEPT
+4774,1031,Tallinn,OUT,-37,2024-10-02,ORD-95096,2,REMOVED
+6404,1140,Ladu,OUT,-33,2024-10-04,ORD-44703,2,REMOVED
