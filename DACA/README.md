@@ -29,8 +29,8 @@ The table below outlines the weekly themes, my assigned **group role**, and my s
 | Week 6 | Power BI – Data Storytelling | **Roll C** – Pärnu Shop Dashboard + Narrative | Created a Pärnu shop dashboard and developed a compelling data narrative around store performance | :white_check_mark: |
 | Week 7 | Python & pandas – RFM Segmentation | **Roll D** – Visualization & Findings | Performed RFM customer segmentation using Python/pandas and created visualizations of key findings | :white_check_mark: |
 | Week 8 | APIs & Automation | **Roll A** – API Query Specialist | Built a modular API pipeline, automated data extraction, and implemented validation checks | :white_check_mark: |
-| Week 9 | Career Preparation | **Roll B** – Technical Interviewer | Prepared for technical interviews, refined CV and LinkedIn profile, and practiced interview scenarios | :arrows_counterclockwise: In Progress |
-| Week 10 | Final Project & Portfolio Defense | **Roll C** – Portfolio Defender | Compiled complete portfolio, prepared final presentation, and defended project outcomes | :hourglass: Upcoming |
+| Week 9 | Career Preparation | **Roll B** – Technical Interviewer | Prepared for technical interviews, refined CV and LinkedIn profile, and practiced interview scenarios | :arrows_counterclockwise:white_check_mark: |
+| Week 10 | Final Project & Portfolio Defense | **Roll C** – Portfolio Defender | Compiled complete portfolio, prepared final presentation, and defended project outcomes | :hourglass: In Progress |
 
 ---
 
