@@ -1,11 +1,3 @@
-
----
-
-### 2. CORE/CORE_code/README.md
-
-Place this file inside `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/CORE/CORE_code/`.
-
-```markdown
 # ⚙️ CORE_code – Folder Structure Generator
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)

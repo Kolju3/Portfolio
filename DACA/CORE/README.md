@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-The **CORE** folder contains the essential, non‑weekly materials that support the DACA (Data Analytics Career Accelerator) project. While the `Week_X` folders hold my weekly deliverables, this directory stores **foundational resources** that are used across the entire programme.
+The **CORE** folder contains the essential, non‑weekly materials that support the DACA (Data Analytics Career Accelerator) project. While the `Week_X` folders hold my weekly deliverables, this directory stores **foundational resources** that are used across the entire program.
 
 It is divided into four subfolders, each serving a distinct purpose:
 

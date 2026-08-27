@@ -1,11 +1,3 @@
-
----
-
-### 5. CORE/INTRODUCTION/README.md
-
-Place this file inside `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/CORE/INTRODUCTION/`.
-
-```markdown
 # 📖 INTRODUCTION – Programme Specifics
 
 [![Glossary](https://img.shields.io/badge/Glossary-Data%20Analytics-00A86B?style=for-the-badge)](./glossary.md)

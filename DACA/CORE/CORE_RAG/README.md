@@ -1,11 +1,3 @@
-
----
-
-### 3. CORE/CORE_RAG/README.md
-
-Place this file inside `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/CORE/CORE_RAG/`.
-
-```markdown
 # 📚 CORE_RAG – Contextual Knowledge Base (UrbanStyle & DACA)
 
 [![RAG](https://img.shields.io/badge/RAG-NotebookLM-4B8BBE?style=for-the-badge)](https://notebooklm.google.com/)
