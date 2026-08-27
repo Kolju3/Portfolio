@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-**DACA (Data Analytics Career Accelerator)** is a practical, 11-week simulation program designed to mirror the responsibilities of a junior data analyst at a fictional company called **UrbanStyle.ltd**. 
+**DACA (Data Analytics Career Accelerator)** is a practical, 11-week simulation program designed to mirror the responsibilities of a junior data analyst at a fictional company called **UrbanStyle.ltd**.
 
 Throughout this course, I worked on real-world business problems, ranging from exploratory data analysis and data cleaning to building interactive dashboards and automating data pipelines. I completed both individual assignments and collaborative group projects, rotating through different team roles each week.
 
@@ -16,21 +16,21 @@ Throughout this course, I worked on real-world business problems, ranging from e
 
 ## 🗓️ My Weekly Contributions
 
-The table below outlines the weekly themes, my assigned **group role** (based on the Operations Intelligence team rotation), and the status of my individual deliverables.
+The table below outlines the weekly themes, my assigned **group role**, and my specific responsibilities for each week.
 
-| Week | Theme | My Group Role | Status |
-| :--- | :--- | :--- | :--- |
-| Week 0 | Development Environment & GitHub Setup | **Roll A** – GitHub Repo Setter | :white_check_mark: |
-| Week 1 | SQL Basics – Exploring Sales Data | **Roll B** – Supabase Setter | :white_check_mark: |
-| Week 2 | SQL Data Cleaning | **Roll C** – NotebookLM Setter | :white_check_mark: |
-| Week 3 | SQL JOINs – Products & Inventory | **Roll D** – Team Charter Coordinator | :white_check_mark: |
-| Week 4 | SQL Aggregations & GROUP BY | **Roll A** – GitHub Repo Setter | :white_check_mark: |
-| Week 5 | Power BI – Dashboard Design | **Roll B** – Supabase Setter | :white_check_mark: |
-| Week 6 | Power BI – Data Storytelling | **Roll C** – NotebookLM Setter | :white_check_mark: |
-| Week 7 | Python & pandas – RFM Segmentation | **Roll D** – Team Charter Coordinator | :white_check_mark: |
-| Week 8 | APIs & Automation | **Roll A** – GitHub Repo Setter | :white_check_mark: |
-| Week 9 | Career Preparation (CV, LinkedIn, Portfolio) | **Roll B** – Supabase Setter | :arrows_counterclockwise: In Progress |
-| Week 10 | Final Project & Presentation | **Roll C** – NotebookLM Setter | :hourglass: Upcoming |
+| Week | Theme | My Group Role | My Specific Responsibilities | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| Week 0 | Development Environment & GitHub Setup | **Roll A** – GitHub Repository Setter | Set up the group GitHub repository, established Git workflow, and created initial folder structure | :white_check_mark: |
+| Week 1 | SQL Basics – Exploring Sales Data | **Roll B** – Customer Data Explorer | Analyzed customer data, wrote SQL queries to explore sales patterns, and documented findings | :white_check_mark: |
+| Week 2 | SQL Data Cleaning | **Roll C** – Product Data Cleaner | Cleaned product data, handled NULL values and duplicates, and verified data quality | :white_check_mark: |
+| Week 3 | SQL JOINs – Products & Inventory | **Roll D** – Sales Channels Efficiency Analyzer | Analyzed sales channel efficiency using JOIN queries and documented performance metrics | :white_check_mark: |
+| Week 4 | SQL Aggregations & GROUP BY | **Roll A** – Sales Aggregation Specialist | Created aggregated sales reports using GROUP BY, developed KPIs, and validated results | :white_check_mark: |
+| Week 5 | Power BI – Dashboard Design | **Roll B** – Marketing Dashboard Developer | Designed and built a comprehensive marketing dashboard in Power BI with DAX measures | :white_check_mark: |
+| Week 6 | Power BI – Data Storytelling | **Roll C** – Pärnu Shop Dashboard + Narrative | Created a Pärnu shop dashboard and developed a compelling data narrative around store performance | :white_check_mark: |
+| Week 7 | Python & pandas – RFM Segmentation | **Roll D** – Visualization & Findings | Performed RFM customer segmentation using Python/pandas and created visualizations of key findings | :white_check_mark: |
+| Week 8 | APIs & Automation | **Roll A** – API Query Specialist | Built a modular API pipeline, automated data extraction, and implemented validation checks | :white_check_mark: |
+| Week 9 | Career Preparation | **Roll B** – Technical Interviewer | Prepared for technical interviews, refined CV and LinkedIn profile, and practiced interview scenarios | :arrows_counterclockwise: In Progress |
+| Week 10 | Final Project & Portfolio Defense | **Roll C** – Portfolio Defender | Compiled complete portfolio, prepared final presentation, and defended project outcomes | :hourglass: Upcoming |
 
 ---
 
