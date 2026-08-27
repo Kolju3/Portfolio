@@ -1,11 +1,3 @@
-
----
-
-### 4. Week_3/Week_3_Results/Week_3_Pictures/README.md
-
-Copy this into `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/Week_3/Week_3_Results/Week_3_Pictures/README.md`:
-
-```plaintext
 # 🖼️ Week 3 – Pictures & Screenshots
 
 [![DACA](https://img.shields.io/badge/DACA-Week_3-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
