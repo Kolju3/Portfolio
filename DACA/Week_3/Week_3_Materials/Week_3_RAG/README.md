@@ -1,3 +1,92 @@
-# Week_3_RAG
+# 🧠 Week_3_RAG – SQL JOINs & UrbanStyle Application
 
-RAG materials for Week 3.
+[![RAG](https://img.shields.io/badge/RAG-NotebookLM-4B8BBE?style=for-the-badge)](https://notebooklm.google.com/)
+[![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+---
+
+## 📌 What is RAG?
+
+**RAG** stands for **Retrieval-Augmented Generation**. It is an AI technique where the AI model first **retrieves** relevant information from provided documents and only then **generates** a response based on that information.
+
+### Simple Analogy
+
+| Without RAG | With RAG |
+| :--- | :--- |
+| A person answering from memory – might forget or make things up | A person with a reference library – looks up the answer and cites the source |
+
+### Why This Matters
+
+- **More accurate** – the AI answers based on your specific materials
+- **Source‑attributed** – every answer can be traced back to a document
+- **Reduced hallucinations** – the AI doesn't "invent" answers
+- **Programme‑specific** – the AI knows about UrbanStyle and DACA, not just general knowledge
+
+---
+
+## 📄 Files in This Folder
+
+| File | Description |
+| :--- | :--- |
+| `3_0_R1_sql_joins_concepts-rag.md` | SQL JOIN fundamentals – `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, Primary Keys, Foreign Keys, and the "LEFT JOIN + WHERE IS NULL" pattern |
+| `3_0_R2_sql_joins_urbanstyle_application-rag.md` | Practical application – Anna Mets' marketing questions, TOP customers, missing customers, unsold products, channel analysis, and multi-table JOINs |
+
+---
+
+## 📚 File Details
+
+### 3_0_R1_sql_joins_concepts-rag.md – SQL JOIN Fundamentals
+
+This document covers the **core SQL JOIN concepts** needed for Week 3 of the DACA programme.
+
+#### Key Topics Covered
+
+| Topic | Description |
+| :--- | :--- |
+| **Why Data is in Multiple Tables** | Normalisation, Primary Keys, and Foreign Keys explained |
+| **INNER JOIN** | Only matching rows from both tables – the most common JOIN type |
+| **Table Aliases** | Shortening table names for readability (`sales s`, `customers c`) |
+| **LEFT JOIN** | All rows from the left table + matching rows from the right (NULL if no match) |
+| **The "Missing Data" Pattern** | `LEFT JOIN + WHERE IS NULL` to find rows that exist only in the left table |
+| **RIGHT JOIN and FULL OUTER JOIN** | Less common but useful JOIN types |
+| **Multi-Table JOINs** | Combining 3+ tables in a single query |
+| **Self-JOIN** | Joining a table to itself for hierarchical data |
+| **Common JOIN Mistakes** | Missing `ON` clauses, wrong join columns, JOIN type selection errors |
+| **JOIN vs Excel VLOOKUP** | How SQL JOINs compare to spreadsheet lookups |
+
+#### Example Queries Included
+
+```sql
+-- INNER JOIN: customers with their sales
+SELECT
+    c.first_name,
+    c.last_name,
+    c.city,
+    s.sale_id,
+    s.total_price
+FROM sales s
+INNER JOIN customers c ON s.customer_id = c.customer_id
+ORDER BY s.total_price DESC
+LIMIT 10;
+
+-- LEFT JOIN: all customers (including those without sales)
+SELECT
+    c.first_name,
+    c.last_name,
+    c.city,
+    s.sale_id,
+    s.total_price
+FROM customers c
+LEFT JOIN sales s ON c.customer_id = s.customer_id
+ORDER BY s.total_price DESC NULLS LAST;
+
+-- Missing customers: registered but never purchased
+SELECT
+    c.first_name,
+    c.last_name,
+    c.email,
+    c.city
+FROM customers c
+LEFT JOIN sales s ON c.customer_id = s.customer_id
+WHERE s.sale_id IS NULL;
