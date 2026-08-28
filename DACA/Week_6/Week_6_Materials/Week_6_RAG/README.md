@@ -1,8 +1,6 @@
 # 🧠 Week_6_RAG – Data Storytelling & UrbanStyle Application
 
 [![RAG](https://img.shields.io/badge/RAG-NotebookLM-4B8BBE?style=for-the-badge)](https://notebooklm.google.com/)
-[![Storytelling](https://img.shields.io/badge/Data-Storytelling-FFA500?style=for-the-badge)](https://www.storytellingwithdata.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ---
 
