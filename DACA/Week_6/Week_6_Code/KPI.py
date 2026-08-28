@@ -1,5 +1,6 @@
 """
 KPI-de arvutamine koos protsendimuutusega võrreldes eelmise perioodiga.
+Lisatud: tundmatute klientide (missing customer) loendus.
 """
 
 import pandas as pd
@@ -18,18 +19,16 @@ def compute_kpis(df_full, df_filtered, selected_cities, selected_locations, date
     
     Returns:
         dict: võtmed 'current' ja 'previous' ning 'delta' iga KPI jaoks
-              Näiteks:
-              {
-                'revenue': {'current': 1000, 'previous': 900, 'delta': 11.1},
-                'orders': {'current': 50, 'previous': 45, 'delta': 11.1},
-                ...
-              }
+              Lisatud 'missing_customer' KPI
     """
     # Praegused väärtused
     current_revenue = df_filtered["total_price"].sum()
     current_orders = len(df_filtered)
     current_customers = df_filtered["customer_id"].nunique()
     current_avg_order = df_filtered["total_price"].mean() if current_orders > 0 else 0
+    
+    # Tundmatud kliendid (sales without customer_id)
+    current_missing_customer = df_filtered["customer_id"].isna().sum()
 
     # Eelmise perioodi arvutus (sama pikkusega)
     cur_start, cur_end = date_range
@@ -59,8 +58,9 @@ def compute_kpis(df_full, df_filtered, selected_cities, selected_locations, date
         prev_orders = len(df_prev)
         prev_customers = df_prev["customer_id"].nunique()
         prev_avg_order = df_prev["total_price"].mean() if prev_orders > 0 else 0
+        prev_missing_customer = df_prev["customer_id"].isna().sum()
     else:
-        prev_revenue = prev_orders = prev_customers = prev_avg_order = None
+        prev_revenue = prev_orders = prev_customers = prev_avg_order = prev_missing_customer = None
 
     # Abifunktsioon delta arvutamiseks
     def calc_delta(current, previous):
@@ -89,6 +89,11 @@ def compute_kpis(df_full, df_filtered, selected_cities, selected_locations, date
             'current': current_avg_order,
             'previous': prev_avg_order,
             'delta': calc_delta(current_avg_order, prev_avg_order)
+        },
+        'missing_customer': {
+            'current': current_missing_customer,
+            'previous': prev_missing_customer,
+            'delta': calc_delta(current_missing_customer, prev_missing_customer)
         }
     }
     return result

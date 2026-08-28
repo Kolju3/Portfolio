@@ -43,11 +43,20 @@ df["sale_date"] = pd.to_datetime(df["sale_date"])
 # ------------------------------------------------------------
 st.sidebar.header("🔍 Filtrid")
 
+# Get all unique cities (excluding NULL)
 all_cities = sorted(df["city"].dropna().unique())
+
+# Add "Unknown" as an option for sales without customer ID
+all_cities_with_unknown = ["Unknown"] + all_cities
+
+# City filter with "Unknown" option
 selected_cities = st.sidebar.multiselect(
-    "Linnad", options=all_cities, default=all_cities
+    "Linnad (vali 'Unknown' et näidata kliendita müüke)",
+    options=all_cities_with_unknown,
+    default=all_cities_with_unknown
 )
 
+# Date filter
 min_date = df["sale_date"].min().date()
 max_date = df["sale_date"].max().date()
 date_range = st.sidebar.date_input(
@@ -57,6 +66,7 @@ date_range = st.sidebar.date_input(
     max_value=max_date
 )
 
+# Location filter
 all_locations = sorted(df["location"].dropna().unique())
 selected_locations = st.sidebar.multiselect(
     "Müügikanalid / Asukohad",
@@ -86,7 +96,7 @@ st.markdown("*Reaalajas müügiandmed investorkoosoleku ettevalmistuseks*")
 st.divider()
 
 # KPI kaardid
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5 = st.columns(5)
 
 # Abifunktsioon delta stringi vormindamiseks
 def format_delta(delta):
@@ -116,6 +126,12 @@ col4.metric(
     label="Keskmine tellimus",
     value=f"€{kpis['avg_order']['current']:,.2f}",
     delta=format_delta(kpis['avg_order']['delta'])
+)
+
+col5.metric(
+    label="❓ Tundmatud kliendid",
+    value=f"{kpis['missing_customer']['current']:,}",
+    delta=format_delta(kpis['missing_customer']['delta'])
 )
 
 st.divider()
