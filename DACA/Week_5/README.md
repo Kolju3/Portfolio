@@ -96,3 +96,7 @@ The queries I wrote for this week are available in the **[Week_5_Code/](./Week_5
 
 The most significant challenge overcome was Supabase's **1,000-row API limit**. Initially, my dashboard only loaded the first 1,000 rows, which meant the revenue trend graph showed a massive data gap (missing all of 2024). I solved this by implementing **looped pagination**:
 
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*
+

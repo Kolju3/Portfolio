@@ -150,3 +150,7 @@ App.py
 │
 └── 7. Footer
     └── st.caption() – data source and row count
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*
