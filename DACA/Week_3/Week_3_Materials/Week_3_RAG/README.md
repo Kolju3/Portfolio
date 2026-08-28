@@ -1,27 +1,6 @@
 # 🧠 Week_3_RAG – SQL JOINs & UrbanStyle Application
 
 [![RAG](https://img.shields.io/badge/RAG-NotebookLM-4B8BBE?style=for-the-badge)](https://notebooklm.google.com/)
-[![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
----
-
-## 📌 What is RAG?
-
-**RAG** stands for **Retrieval-Augmented Generation**. It is an AI technique where the AI model first **retrieves** relevant information from provided documents and only then **generates** a response based on that information.
-
-### Simple Analogy
-
-| Without RAG | With RAG |
-| :--- | :--- |
-| A person answering from memory – might forget or make things up | A person with a reference library – looks up the answer and cites the source |
-
-### Why This Matters
-
-- **More accurate** – the AI answers based on your specific materials
-- **Source‑attributed** – every answer can be traced back to a document
-- **Reduced hallucinations** – the AI doesn't "invent" answers
-- **Programme‑specific** – the AI knows about UrbanStyle and DACA, not just general knowledge
 
 ---
 

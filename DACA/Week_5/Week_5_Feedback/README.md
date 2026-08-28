@@ -1,8 +1,5 @@
 # 💬 Week 5 – Feedback & Reflections
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Linux](https://img.shields.io/badge/Linux-Mint-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linuxmint.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 

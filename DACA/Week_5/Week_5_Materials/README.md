@@ -1,7 +1,6 @@
 # 📚 Week 5 – Course Materials
 
 [![DACA](https://img.shields.io/badge/DACA-Week_5-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
-[![Visualisation](https://img.shields.io/badge/Visualisation-Design-FFA500?style=for-the-badge)](https://www.storytellingwithdata.com/)
 [![Materials](https://img.shields.io/badge/Type-Dashboard%20Design-FFA500?style=for-the-badge)]()
 
 ---
