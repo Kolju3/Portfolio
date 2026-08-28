@@ -29,7 +29,7 @@ If you run it from within `CORE_code`, it will create the folders in the wrong p
 ```bash
 cd /home/kolp/Desktop/Kursus/Repositary/Portfolio
 python CORE/CORE_code/create_structure.py
-
+```
 ---
 
 *Part of the DACA Portfolio – maintained by Kalju Tamme*

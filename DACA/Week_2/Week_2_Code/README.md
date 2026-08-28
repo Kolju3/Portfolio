@@ -1,5 +1,6 @@
 # 💻 Week 2 – SQL Data Cleaning & Duplicate Analysis
 
+[![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DACA](https://img.shields.io/badge/DACA-Week_2-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 
@@ -68,4 +69,6 @@ The code demonstrates:
 | **`Product_Table_Negative_price_finder.sql`** | Identifies products with illogical prices (negative costs or retail prices) |
 | **`Product_Table_Negative_price_reasoning.sql`** | Detailed analysis of price issues with explanations for each issue type |
 
+---
 
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

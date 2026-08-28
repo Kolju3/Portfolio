@@ -62,27 +62,4 @@ The code demonstrates:
 
 ---
 
-## 🔍 Detailed Query Analysis
-
-### 1. Data Cleaning with `DISTINCT ON`
-
-**File:** `Clean_table_generator_Sales_Removes_duplicates_Merged_Columns.sql`
-
-```sql
-CREATE TABLE "Testing_Sales_Cleaned" AS
-SELECT DISTINCT ON (invoice_id)
-    sale_id,
-    invoice_id,
-    sale_date,
-    customer_id,
-    product_id,
-    quantity,
-    unit_price,
-    total_price,
-    TRIM(INITCAP(COALESCE(store_location, 'Online'))) AS location,  -- Merged column
-    TRIM(INITCAP(payment_method)) AS payment_method
-FROM
-    "Sales"
-ORDER BY
-    invoice_id,          -- Required for DISTINCT ON
-    sale_id;             -- Keeps the row with the smallest sale_id per invoice_id
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

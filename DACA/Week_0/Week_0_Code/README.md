@@ -1,5 +1,6 @@
 # 📝 Week 0 – No Coding Activity
 
+[![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DACA](https://img.shields.io/badge/DACA-Week_0-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-No%20Code-FFB347?style=for-the-badge)]()
 
