@@ -1,6 +1,5 @@
 # 💻 Week 2 – SQL Data Cleaning & Duplicate Analysis
 
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DACA](https://img.shields.io/badge/DACA-Week_2-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 
@@ -69,14 +68,4 @@ The code demonstrates:
 | **`Product_Table_Negative_price_finder.sql`** | Identifies products with illogical prices (negative costs or retail prices) |
 | **`Product_Table_Negative_price_reasoning.sql`** | Detailed analysis of price issues with explanations for each issue type |
 
----
 
-## 🔍 Detailed Query Analysis
-
-### 1. Data Duplication – Creating Safe Testing Copies
-
-**File:** `Duplicate_the_data_tables.sql`
-
-```sql
-CREATE TABLE "Testing_Products" (LIKE "Products" INCLUDING ALL);
-INSERT INTO "Testing_Products" SELECT * FROM "Products";

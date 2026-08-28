@@ -1,7 +1,5 @@
 # 🔧 WORKSHOP – Coding Environment
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Virtual Environment](https://img.shields.io/badge/VirtualEnv-venv-4B8BBE?style=for-the-badge)](https://docs.python.org/3/library/venv.html)
 [![DACA](https://img.shields.io/badge/DACA-Project-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 
 ---

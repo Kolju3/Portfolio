@@ -1,7 +1,6 @@
 # 🖼️ Week 1 – SQL Screenshots: Standardisation & Data Quality
 
 [![DACA](https://img.shields.io/badge/DACA-Week_1-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Screenshots](https://img.shields.io/badge/Screenshots-10-00A86B?style=for-the-badge)]()
 
 ---

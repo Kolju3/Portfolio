@@ -1,8 +1,5 @@
 # 📖 INTRODUCTION – Programme Specifics
 
-[![Glossary](https://img.shields.io/badge/Glossary-Data%20Analytics-00A86B?style=for-the-badge)](./glossary.md)
-[![Tools](https://img.shields.io/badge/Tools-Guide-FFA500?style=for-the-badge)](./tools_guide.md)
-
 ---
 
 ## 🎯 Purpose

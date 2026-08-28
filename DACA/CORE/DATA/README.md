@@ -1,6 +1,5 @@
 # 📊 DATA – Datasets and Backups
 
-[![CSV](https://img.shields.io/badge/CSV-Data-FF6B6B?style=for-the-badge)](https://en.wikipedia.org/wiki/Comma-separated_values)
 [![Supabase](https://img.shields.io/badge/Supabase-Export-047857?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ---

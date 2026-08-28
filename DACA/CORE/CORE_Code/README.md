@@ -1,6 +1,5 @@
 # ⚙️ CORE_code – Folder Structure Generator
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![DACA](https://img.shields.io/badge/DACA-Project-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 
 ---
@@ -30,3 +29,7 @@ If you run it from within `CORE_code`, it will create the folders in the wrong p
 ```bash
 cd /home/kolp/Desktop/Kursus/Repositary/Portfolio
 python CORE/CORE_code/create_structure.py
+
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

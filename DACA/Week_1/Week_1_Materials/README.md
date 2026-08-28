@@ -1,7 +1,6 @@
 # 📚 Week 1 – Course Materials
 
 [![DACA](https://img.shields.io/badge/DACA-Week_1-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Materials](https://img.shields.io/badge/Type-SQL%20Basics-FFA500?style=for-the-badge)]()
 
 ---

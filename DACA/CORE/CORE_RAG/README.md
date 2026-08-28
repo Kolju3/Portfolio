@@ -1,7 +1,6 @@
 # 📚 CORE_RAG – Contextual Knowledge Base (UrbanStyle & DACA)
 
 [![RAG](https://img.shields.io/badge/RAG-NotebookLM-4B8BBE?style=for-the-badge)](https://notebooklm.google.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ---
 

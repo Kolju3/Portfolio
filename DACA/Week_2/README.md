@@ -1,6 +1,5 @@
 # 🧹 Week 2 – Data Quality Audit & SQL Cleaning
 
-[![SQL](https://img.shields.io/badge/SQL-Data%20Cleaning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DACA](https://img.shields.io/badge/DACA-Week_2-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 
