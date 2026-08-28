@@ -1,11 +1,3 @@
-
----
-
-### 7. Week_5/Week_5_Results/Week_5_Conclusions/README.md
-
-Copy this into `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/Week_5/Week_5_Results/Week_5_Conclusions/README.md`:
-
-```plaintext
 # ✅ Week 5 – Conclusions & Dashboard Design Summary
 
 [![DACA](https://img.shields.io/badge/DACA-Week_5-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)

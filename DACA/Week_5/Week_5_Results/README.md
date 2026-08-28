@@ -1,11 +1,3 @@
-
----
-
-### 6. Week_5/Week_5_Results/README.md
-
-Copy this into `/home/kolp/Desktop/Kursus/Repositary/Portfolio/DACA/Week_5/Week_5_Results/README.md`:
-
-```plaintext
 # 📊 Week 5 – Results & Outputs
 
 [![DACA](https://img.shields.io/badge/DACA-Week_5-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
