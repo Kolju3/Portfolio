@@ -79,3 +79,7 @@ DACA/
 │   └── ...
 └── Week_10/                        # Final project
     └── ...
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

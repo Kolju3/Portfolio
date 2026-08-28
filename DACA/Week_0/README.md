@@ -63,3 +63,7 @@ Week_0/
 ├── Week_0_Feedback/           # My personal reflections on the week
 ├── Week_0_Materials/          # Course materials and RAG files
 └── Week_0_Results/            # Setup results and screenshots
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

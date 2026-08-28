@@ -31,3 +31,7 @@ CORE/
 ├── CORE_RAG/                  # Contextual RAG documents (UrbanStyle, programme logic)
 ├── DATA/                      # Datasets and backups
 └── INTRODUCTION/              # Tool guides, glossaries, programme framework
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

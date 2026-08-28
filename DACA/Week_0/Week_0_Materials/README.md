@@ -35,3 +35,7 @@ Week_0_Materials/
     ├── 0_0_R1_onboarding_concepts-rag.md
     ├── 0_0_R2_onboarding_urbanstyle_application-rag.md
     └── [audio-file].mp3       # Generated audio summary
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

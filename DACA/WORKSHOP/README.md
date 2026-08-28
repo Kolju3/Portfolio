@@ -25,3 +25,7 @@ WORKSHOP/
 ├── __pycache__/               # Python bytecode cache (auto‑generated)
 ├── output/                    # Output files (graphs, CSVs, reports)
 └── requirements.txt           # List of all Python packages used
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*
