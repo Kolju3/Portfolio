@@ -22,3 +22,7 @@ DATA/
 ├── Bonus/                     # Additional / bonus datasets
 ├── Core/                      # Primary datasets (main tables)
 └── Schema/                    # Database schema definitions (DDL)
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

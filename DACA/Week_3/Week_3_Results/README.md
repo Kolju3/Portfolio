@@ -1,7 +1,7 @@
 # 📊 Week 3 – Results & Outputs
 
-[![DACA](https://img.shields.io/badge/DACA-Week_3-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DACA](https://img.shields.io/badge/DACA-Week_3-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 
 ---
@@ -44,3 +44,7 @@ Week_3_Results/
     ├── Quick_Sales_value_check.csv
     ├── Sales_Table_analyze_per_location.csv
     └── Unknown_sales.csv
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

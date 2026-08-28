@@ -1,7 +1,7 @@
 # 💬 Week 3 – Feedback & Reflections: From Cleaning to Connection
 
-[![DACA](https://img.shields.io/badge/DACA-Week_3-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![SQL](https://img.shields.io/badge/SQL-JOINs-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DACA](https://img.shields.io/badge/DACA-Week_3-0A66C2?style=for-the-badge)](https://github.com/Kolju3/Portfolio)
 [![Status](https://img.shields.io/badge/Status-Completed-00A86B?style=for-the-badge)]()
 
 ---

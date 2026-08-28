@@ -34,38 +34,6 @@ This document covers the **core SQL JOIN concepts** needed for Week 3 of the DAC
 | **Common JOIN Mistakes** | Missing `ON` clauses, wrong join columns, JOIN type selection errors |
 | **JOIN vs Excel VLOOKUP** | How SQL JOINs compare to spreadsheet lookups |
 
-#### Example Queries Included
+---
 
-```sql
--- INNER JOIN: customers with their sales
-SELECT
-    c.first_name,
-    c.last_name,
-    c.city,
-    s.sale_id,
-    s.total_price
-FROM sales s
-INNER JOIN customers c ON s.customer_id = c.customer_id
-ORDER BY s.total_price DESC
-LIMIT 10;
-
--- LEFT JOIN: all customers (including those without sales)
-SELECT
-    c.first_name,
-    c.last_name,
-    c.city,
-    s.sale_id,
-    s.total_price
-FROM customers c
-LEFT JOIN sales s ON c.customer_id = s.customer_id
-ORDER BY s.total_price DESC NULLS LAST;
-
--- Missing customers: registered but never purchased
-SELECT
-    c.first_name,
-    c.last_name,
-    c.email,
-    c.city
-FROM customers c
-LEFT JOIN sales s ON c.customer_id = s.customer_id
-WHERE s.sale_id IS NULL;
+*Part of the DACA Portfolio – maintained by Kalju Tamme*

@@ -28,3 +28,7 @@ Week_3_Materials/
     ├── 3_0_R1_sql_joins_concepts-rag.md   # SQL JOIN fundamentals
     ├── 3_0_R2_sql_joins_urbanstyle_application-rag.md # UrbanStyle application
     └── [audio-file].mp3                   # Generated audio summary
+```
+---
+
+*Part of the DACA Portfolio – maintained by Kalju Tamme*
